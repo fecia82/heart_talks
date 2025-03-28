@@ -1,0 +1,11 @@
+Transcribe este tratamiento en formato:  Fármaco, dosis, posologia. No añadas nada mas en esta lista.  
+
+Una linea por farmaco. 
+
+Si el farmaco esta escrito con nombre comercial pon entre parentesis el principio activo.
+
+Comprueba el resultado. Que los fármacos existan. Al estar a mano puedes tener dudas, pon el que mas se acerque a la realidad.  
+
+Al final, haz una lista de los farmacos que hay dudas. 
+
+Estoy en España, los nombres comerciales deben ser comercializados en España. Sino pon solo el principio activo. 

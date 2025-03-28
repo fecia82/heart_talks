@@ -1,0 +1,1246 @@
+* 04/03/2024 16:41:37 - Medico: AGUSTÍN FERNÁNDEZ CISNAL - Cardiología general - 
+-------------------------------------------------------------------------
+EVOLUCIÓN: Disnea.
+
+ASCITIS DE REPETICIÓN. SI SE DETECTA REMITIR A DIGESTIVO PARA PARACENTESIS. 
+
+Insuficiencia cardíaca crónica con fracción de eyección deprimida (FE 40%).
+- Cardiopatía isquéimca (IAM anterior con stent 2012. coproanriografía 2019 con stent permeable).
+- Ascitis severa en al que se descartó orgien hapático que ha requerido paracentesis evacuadora en 2 ocasiones en el último mes.
+- Estado congestivo elevado con edemas en MMII ++++ y niveles muy elevados de CA125 a pesar de tratamiento
+diuretico intensivo (Furosemida a dosis altas, Hidroclorotiazida, Acetazolamida, Espironolactona).
+- Escasa respuesta a bomba elastomérica de furosemida 80 mg /24h.
+- Insuficiencia renal aguda con creatintina en torno a 1.9 mg/dL. ERC con creatinina en torno a 1.6 mg/dL.
+- Flutter auricular lento. DAI monocamenral en 5/2020.
+- Unidad de IC H clinico: paracentesis evacuadoras.
+
+Tratamiento actual:
+
+ - Seguril 40 mg 1 1/2-1 1/2-0
+ - Espironolactona 100 mg 1 comp en la comida. 
+ - Hidroclototiazida 25 mg 2 comprimidos cada 24 horas. 
+ - Xarelto 20 mg: 1 comp al dia
+ - Synjardy 12.5/1000 mg cada 24 horas.
+ - Amlodipino 5 mg.
+ - Entresto 97/103 mg cada 12 horas. 
+ - Zarator 80 mg.
+ - Rybelsus 14 mg. 
+ 
+Teléfono: 609864263
+
+4/3/2024
+
+Nuevo reingreso por ascitis. Paracentesis evacuadora.
+
+Ha mejorado de la disnea. 
+
+No edemas en MMII. No ascitis.  
+
+Analítica: hemograma 12.9. Cr 1.8. K 5.3. GGT 127. No NTproBNP ni CA125. 
+
+Plan: 
+ - No modifico tratamiento. 
+ - Control en un mes. 
+
+17/1/2024
+
+Ha ingresado en dos ocasiones por descompensación de IC y aumento franco de edemas y ascitis. Se aumentó tratamiento a (Furosemida 1.5-1.5-0, aldactone 100 mg, HTZ 50 mg)
+
+Desde el alta refiere ligera disnea. NYHA IIb. 
+
+TA 131/81 mmHg. 
+EF con ligeros edemas en MMII. Ascitis ligera. 
+
+Analítica: hemograma OK. Creatinina 1.9 mg/dL. Potasio 5.1, Cl 81. HbA1c 7.1%. Bilirrubina 1.9. 
+
+ECG: Flutter. Estiulación ventriculara 50. 
+
+
+05/10/23 Consulta Dispositivos: 
+
+Paciente de 61 años portador de DAI monocameral de Biotronik ACTICOR 7 HT-F
+
+Interrogación del dispositivo: 
+Longevidad: BOS
+
+%EV: 
+
+Sondas normofuncionantes.
+
+No arritmias ventriculares sostenidas. 99% en FA. 
+
+Programado: VVI 50
+
+Zonas de Taqui: 
+Zona 1: 171
+Zona 2: 200 lpm
+ZonaFV 240 lpm.
+
+Plan: 
+ - Disminuyo furosemida a 1-1-0. 
+ - Disminuyo HTZ a 25 mg. 
+ - Control con ecocardiograma y analítica en 1.5 meses. 
+
+
+30/8/2023
+
+Mejoría clínica de disnea. NYHA II. Refiere episodios de palpitaciones de 1 h de duración (flutter?)
+
+Tensión arterial 148/89 mmHg. AMPAs 130/80 mmHg 
+EF anodina. No edemas en MMII.
+
+Electrocardiograma: FA. Estimulación ventricular a 50 lpm. 
+
+Analítica. Hemograma 13.5. Creatintina 1.5 mg/dL. HbA1c 8%. NTproBNP 9360 (6310-5880). Ct 160, LDL 87. CA125 no realizado 28. GGT 243
+
+Plan: 
+ - Suspendo Acovil. 
+ - Inicio Bisoprolol 5 mg cada 24 horas. 
+ - Control en un mes con analítica. 
+ - Revisión DAI. 
+
+
+5/4/2023
+
+Tomó dosis extra de furosemida por ligero empeoramiento de de disnea. Maneja muy bien diuréticos en función de síntomas. 
+
+Tensión arterial 159/93 mmHg. AMPAs 130/80 mmHg 
+EF anodina. No edemas en MMII.
+
+Electrocardiograma: FA. Estimulación ventircular a 50 lpm. 
+
+Analítica. Hemograma 12.6. Creatintina 1.4 mg/dL. HbA1c 8%. NTproBNP 6310 (5880). Ct 142, LDL 75. CA125 28 (7). GGT 155
+
+Plan: 
+ - Seguril 1-1/2-0. 
+ - Control en Agosto con analítica. 
+
+8/2/2023
+
+Ha tenido clínica de infección respiratoria con aumento de disnea. Está mejorando con ligera disnea. 
+
+Tensión arterial 149/80 mmHg. AMPAs 130/80 mmHg 
+EF anodina. No edemas en MMII.
+
+Electrocardiograma: FA. Estimulación ventircular a 50 lpm. 
+
+Analítica. Hemograma OK. Creatintina 1.6 mg/dL, FG 47 ml/min. HbA1c 7.5%. NTproBNP 5880 (4420). Ct 174, LDL 95. CA125 7. 
+
+Plan: 
+ - Reinicio Ozempic a dosis de 14 mg (no se lo ha estado tomando). 
+ - Aumento Seguril  1-1-0 duarnte 15 días y posteriormente 1-0-0. 
+ - Control en un mes con analítica. 
+
+
+21/12/2022
+
+Mejoría clínica significativa. NYHA IIb.
+
+Tensión arterial 162/95 mmHg. AMPAs 130/80 mmHg (pocas tomas). 
+EF anodina. No edemas en MMII.
+
+Electrocardiograma: FA. Estimulación ventircular a 50 lpm. 
+
+Analítica. Hemograma OK. Creatintina 1.6 mg/dL, FG 47 ml/min. HbA1c 7.3%. NTproBNP 4420. Ct 167, LDL 85. CA125 7. 
+
+
+Plan: 
+ - Titulo Entresto a 97/103 mg 
+ - Inicio Ozempic 3 mg durante un mes y 7 mg al mes siguiente. 
+ - Control en 2 meses con analítica. 
+
+9/11/2022
+
+Refiere una semana de empeoramiento de disnea que se hizo NYHA III y ligera oliguria. Posteriormente mejoría hasta NYHA IIb. 
+
+Tensión arterial 170/85 mmHg. 
+EF sin edemas en MMII.  
+
+Electrocardiorgama: FA. Estimulación ventricular a 50 lpm.
+
+Ecocardiograma: (02/11/2022):Ventrículo izquierdo con diámetro en límite alto de la normalidad (DTDVI 55 mm) e hipertrofia concéntrica moderada (TIV 14 mm, pared posterior 11 mm). Función sistólica global severamente deprimida (FEVI 34%) secundario a múltiples alteraciones de la contractilidad segmentaria: acinesia anterior, anteroseptal y anterolateral en segmentos basales y medios, y de los segmentos inferior, lateral y septal apical; discinesia de segmento anterior apical; hipocinesia de segmento inferolateral medio. Patrón de llenado ventricular restrictivo (E/A 2,7) con signos indirectos de presiones elevadas (E/e' media de 26). Dilatación biauricular severa: diámetro AI 51 m, área AI 32 cm2, área AD 28 cm2. Válvula aórtica trivalva, con gradientes transvalvulares normales, sin regurgitación. Válvula mitral de apertura normal, con regurgitación ligera (grado II). Ventrículo derecho en límite alto de la normalidad, con función sistólica reducida (TAPSE 15 mm, s' tricu spídea 7,54 cm/s). IT leve que permite estimar PAPs alrededor de 35-37 mmHg. Vena cava inferior dilatada (22 mm), con colapso inspiratorio menor al 50%. Ausencia de derrame pericárdico.
+
+Analítica: Hemograma OK. Creatinina 1.6 mg/dL K+ 4.4. NTproBNP 4640. LDL 146. CA125 6.76. 
+
+Tratamiento: 
+ - Seguril 40 mg 1-0-0
+ - Acovil 2,5 mg: 1 comp en desayuno SUSPENDER. 
+ - Espironolactona 25 mg 1 comp en la comida. 
+ - Xarelto 20 mg: 1 comp al dia
+ - Synjardy 12.5/1000 mg cada 12 horas.
+ - Amlodipino 5 mg.
+ - Zarator 80 mg.
+ - Entresto 49/51 mg (comenzar el día 11/11/2022). 
+ - Emcocor 2.5 mg cada 24 horas. 
+
+Plan: 
+ - Solicito analítica. 
+ - Control en un mes. 
+
+15/6/2022
+
+Situación clínica estable. NYHA IIb.
+
+Tenisón arterial 159/80 mmHg.
+EF sin edemas en MMII. No ascitis.
+
+Electrocardiograma. FA con respuesta ventricular a 48 lpm. Estimulación MP.
+
+Analítica: Hemograma OK. Creatintina 1.6 mg/dL (FG 46 ml/min). HbA1c 7.7%. GGT 109. NtproBNP 2480 (4400).
+CA125 5. Colesterol total 165 mg/dL, LDL 82 mg/dL.
+
+Plan:
+- Inicio Amlodipino 5 mg cada 24 horas.
+- Solicito ecocardiograma.
+- Control en noviembre con ecocardiograma.
+
+***** Visitas previas en Klinic.
+
+05/10/23 Consulta Dispositivos: 
+
+Paciente de 61 años portador de DAI monocameral de Biotronik ACTICOR 7 HT-F
+
+Interrogación del dispositivo: 
+Longevidad: BOS
+
+%EV: 
+
+Sondas normofuncionantes.
+
+No arritmias ventriculares sostenidas. 99% en FA. 
+
+Programado: VVI 50
+
+Zonas de Taqui: 
+Zona 1: 171
+Zona 2: 200 lpm
+ZonaFV 240 lpm.
+
+* 17/01/2024 10:58:42 - Medico: AGUSTÍN FERNÁNDEZ CISNAL -  - 
+-------------------------------------------------------------------------
+Disnea.
+
+Insuficiencia cardíaca crónica con fracción de eyección deprimida (FE 40%).
+- Cardiopatía isquéimca (IAM anterior con stent 2012. coproanriografía 2019 con stent permeable).
+- Ascitis severa en al que se descartó orgien hapático que ha requerido paracentesis evacuadora en 2 ocasiones en el último mes.
+- Estado congestivo elevado con edemas en MMII ++++ y niveles muy elevados de CA125 a pesar de tratamiento
+diuretico intensivo (Furosemida a dosis altas, Hidroclorotiazida, Acetazolamida, Espironolactona).
+- Escasa respuesta a bomba elastomérica de furosemida 80 mg /24h.
+- Insuficiencia renal aguda con creatintina en torno a 1.9 mg/dL. ERC con creatinina en torno a 1.6 mg/dL.
+- Flutter auricular lento. DAI monocamenral en 5/2020.
+- Unidad de IC H clinico: paracentesis evacuadoras.
+
+Tratamiento actual:
+
+ - Seguril 40 mg 1 1/2-1 1/2-0
+ - Espironolactona 100 mg 1 comp en la comida. 
+ - Hidroclototiazida 25 mg 2 comprimidos cada 24 horas. 
+ - Xarelto 20 mg: 1 comp al dia
+ - Synjardy 12.5/1000 mg cada 24 horas.
+ - Amlodipino 5 mg.
+ - Entresto 97/103 mg cada 12 horas. 
+ - Zarator 80 mg.
+ - Rybelsus 14 mg. 
+ 
+Teléfono: 609864263
+
+17/1/2024
+
+Ha ingresado en dos ocasiones por descompensación de IC y aumento franco de edemas y ascitis. Se aumentó tratamiento a (Furosemida 1.5-1.5-0, aldactone 100 mg, HTZ 50 mg)
+
+Desde el alta refiere ligera disnea. NYHA IIb. 
+
+TA 131/81 mmHg. 
+EF con ligeros edemas en MMII. Ascitis ligera. 
+
+Analítica: hemograma OK. Creatinina 1.9 mg/dL. Potasio 5.1, Cl 81. HbA1c 7.1%. Bilirrubina 1.9. 
+
+ECG: Flutter. Estiulación ventriculara 50. 
+
+
+05/10/23 Consulta Dispositivos: 
+
+Paciente de 61 años portador de DAI monocameral de Biotronik ACTICOR 7 HT-F
+
+Interrogación del dispositivo: 
+Longevidad: BOS
+
+%EV: 
+
+Sondas normofuncionantes.
+
+No arritmias ventriculares sostenidas. 99% en FA. 
+
+Programado: VVI 50
+
+Zonas de Taqui: 
+Zona 1: 171
+Zona 2: 200 lpm
+ZonaFV 240 lpm.
+
+Plan: 
+ - Disminuyo furosemida a 1-1-0. 
+ - Disminuyo HTZ a 25 mg. 
+ - Control con ecocardiograma y analítica en 1.5 meses. 
+
+
+30/8/2023
+
+Mejoría clínica de disnea. NYHA II. Refiere episodios de palpitaciones de 1 h de duración (flutter?)
+
+Tensión arterial 148/89 mmHg. AMPAs 130/80 mmHg 
+EF anodina. No edemas en MMII.
+
+Electrocardiograma: FA. Estimulación ventricular a 50 lpm. 
+
+Analítica. Hemograma 13.5. Creatintina 1.5 mg/dL. HbA1c 8%. NTproBNP 9360 (6310-5880). Ct 160, LDL 87. CA125 no realizado 28. GGT 243
+
+Plan: 
+ - Suspendo Acovil. 
+ - Inicio Bisoprolol 5 mg cada 24 horas. 
+ - Control en un mes con analítica. 
+ - Revisión DAI. 
+
+
+5/4/2023
+
+Tomó dosis extra de furosemida por ligero empeoramiento de de disnea. Maneja muy bien diuréticos en función de síntomas. 
+
+Tensión arterial 159/93 mmHg. AMPAs 130/80 mmHg 
+EF anodina. No edemas en MMII.
+
+Electrocardiograma: FA. Estimulación ventircular a 50 lpm. 
+
+Analítica. Hemograma 12.6. Creatintina 1.4 mg/dL. HbA1c 8%. NTproBNP 6310 (5880). Ct 142, LDL 75. CA125 28 (7). GGT 155
+
+Plan: 
+ - Seguril 1-1/2-0. 
+ - Control en Agosto con analítica. 
+
+8/2/2023
+
+Ha tenido clínica de infección respiratoria con aumento de disnea. Está mejorando con ligera disnea. 
+
+Tensión arterial 149/80 mmHg. AMPAs 130/80 mmHg 
+EF anodina. No edemas en MMII.
+
+Electrocardiograma: FA. Estimulación ventircular a 50 lpm. 
+
+Analítica. Hemograma OK. Creatintina 1.6 mg/dL, FG 47 ml/min. HbA1c 7.5%. NTproBNP 5880 (4420). Ct 174, LDL 95. CA125 7. 
+
+Plan: 
+ - Reinicio Ozempic a dosis de 14 mg (no se lo ha estado tomando). 
+ - Aumento Seguril  1-1-0 duarnte 15 días y posteriormente 1-0-0. 
+ - Control en un mes con analítica. 
+
+
+21/12/2022
+
+Mejoría clínica significativa. NYHA IIb.
+
+Tensión arterial 162/95 mmHg. AMPAs 130/80 mmHg (pocas tomas). 
+EF anodina. No edemas en MMII.
+
+Electrocardiograma: FA. Estimulación ventircular a 50 lpm. 
+
+Analítica. Hemograma OK. Creatintina 1.6 mg/dL, FG 47 ml/min. HbA1c 7.3%. NTproBNP 4420. Ct 167, LDL 85. CA125 7. 
+
+
+Plan: 
+ - Titulo Entresto a 97/103 mg 
+ - Inicio Ozempic 3 mg durante un mes y 7 mg al mes siguiente. 
+ - Control en 2 meses con analítica. 
+
+9/11/2022
+
+Refiere una semana de empeoramiento de disnea que se hizo NYHA III y ligera oliguria. Posteriormente mejoría hasta NYHA IIb. 
+
+Tensión arterial 170/85 mmHg. 
+EF sin edemas en MMII.  
+
+Electrocardiorgama: FA. Estimulación ventricular a 50 lpm.
+
+Ecocardiograma: (02/11/2022):Ventrículo izquierdo con diámetro en límite alto de la normalidad (DTDVI 55 mm) e hipertrofia concéntrica moderada (TIV 14 mm, pared posterior 11 mm). Función sistólica global severamente deprimida (FEVI 34%) secundario a múltiples alteraciones de la contractilidad segmentaria: acinesia anterior, anteroseptal y anterolateral en segmentos basales y medios, y de los segmentos inferior, lateral y septal apical; discinesia de segmento anterior apical; hipocinesia de segmento inferolateral medio. Patrón de llenado ventricular restrictivo (E/A 2,7) con signos indirectos de presiones elevadas (E/e' media de 26). Dilatación biauricular severa: diámetro AI 51 m, área AI 32 cm2, área AD 28 cm2. Válvula aórtica trivalva, con gradientes transvalvulares normales, sin regurgitación. Válvula mitral de apertura normal, con regurgitación ligera (grado II). Ventrículo derecho en límite alto de la normalidad, con función sistólica reducida (TAPSE 15 mm, s' tricu spídea 7,54 cm/s). IT leve que permite estimar PAPs alrededor de 35-37 mmHg. Vena cava inferior dilatada (22 mm), con colapso inspiratorio menor al 50%. Ausencia de derrame pericárdico.
+
+Analítica: Hemograma OK. Creatinina 1.6 mg/dL K+ 4.4. NTproBNP 4640. LDL 146. CA125 6.76. 
+
+Tratamiento: 
+ - Seguril 40 mg 1-0-0
+ - Acovil 2,5 mg: 1 comp en desayuno SUSPENDER. 
+ - Espironolactona 25 mg 1 comp en la comida. 
+ - Xarelto 20 mg: 1 comp al dia
+ - Synjardy 12.5/1000 mg cada 12 horas.
+ - Amlodipino 5 mg.
+ - Zarator 80 mg.
+ - Entresto 49/51 mg (comenzar el día 11/11/2022). 
+ - Emcocor 2.5 mg cada 24 horas. 
+
+Plan: 
+ - Solicito analítica. 
+ - Control en un mes. 
+
+15/6/2022
+
+Situación clínica estable. NYHA IIb.
+
+Tenisón arterial 159/80 mmHg.
+EF sin edemas en MMII. No ascitis.
+
+Electrocardiograma. FA con respuesta ventricular a 48 lpm. Estimulación MP.
+
+Analítica: Hemograma OK. Creatintina 1.6 mg/dL (FG 46 ml/min). HbA1c 7.7%. GGT 109. NtproBNP 2480 (4400).
+CA125 5. Colesterol total 165 mg/dL, LDL 82 mg/dL.
+
+Plan:
+- Inicio Amlodipino 5 mg cada 24 horas.
+- Solicito ecocardiograma.
+- Control en noviembre con ecocardiograma.
+
+***** Visitas previas en Klinic.
+
+05/10/23 Consulta Dispositivos: 
+
+Paciente de 61 años portador de DAI monocameral de Biotronik ACTICOR 7 HT-F
+
+Interrogación del dispositivo: 
+Longevidad: BOS
+
+%EV: 
+
+Sondas normofuncionantes.
+
+No arritmias ventriculares sostenidas. 99% en FA. 
+
+Programado: VVI 50
+
+Zonas de Taqui: 
+Zona 1: 171
+Zona 2: 200 lpm
+ZonaFV 240 lpm.
+
+* 17/01/2024 10:50:39 - Medico: AGUSTÍN FERNÁNDEZ CISNAL - Cardiología general - 
+-------------------------------------------------------------------------
+Disnea.
+
+Insuficiencia cardíaca crónica con fracción de eyección deprimida (FE 40%).
+- Cardiopatía isquéimca (IAM anterior con stent 2012. coproanriografía 2019 con stent permeable).
+- Ascitis severa en al que se descartó orgien hapático que ha requerido paracentesis evacuadora en 2 ocasiones en el último mes.
+- Estado congestivo elevado con edemas en MMII ++++ y niveles muy elevados de CA125 a pesar de tratamiento
+diuretico intensivo (Furosemida a dosis altas, Hidroclorotiazida, Acetazolamida, Espironolactona).
+- Escasa respuesta a bomba elastomérica de furosemida 80 mg /24h.
+- Insuficiencia renal aguda con creatintina en torno a 1.9 mg/dL. ERC con creatinina en torno a 1.6 mg/dL.
+- Flutter auricular lento. DAI monocamenral en 5/2020.
+- Unidad de IC H clinico: paracentesis evacuadoras.
+
+Tratamiento actual:
+
+ - Seguril 40 mg 1 1/2-1 1/2-0
+ - Espironolactona 100 mg 1 comp en la comida. 
+ - Hidroclototiazida 25 mg 2 comprimidos cada 24 horas. 
+ - Xarelto 20 mg: 1 comp al dia
+ - Synjardy 12.5/1000 mg cada 24 horas.
+ - Amlodipino 5 mg.
+ - Entresto 97/103 mg cada 12 horas. 
+ - Zarator 80 mg.
+ - Rybelsus 14 mg. 
+ 
+Teléfono: 609864263
+
+17/1/2024
+
+Ha ingresado en dos ocasiones por descompensación de IC y aumento franco de edemas y ascitis. Se aumentó tratamiento a (Furosemida 1.5-1.5-0, aldactone 100 mg, HTZ 50 mg)
+
+Desde el alta refiere ligera disnea. NYHA IIb. 
+
+TA 131/81 mmHg. 
+EF con ligeros edemas en MMII. Ascitis ligera. 
+
+Analítica: hemograma OK. Creatinina 1.9 mg/dL. Potasio 5.1, Cl 81. HbA1c 7.1%. Bilirrubina 1.9. 
+
+ECG: Flutter. Estiulación ventriculara 50. 
+
+
+05/10/23 Consulta Dispositivos: 
+
+Paciente de 61 años portador de DAI monocameral de Biotronik ACTICOR 7 HT-F
+
+Interrogación del dispositivo: 
+Longevidad: BOS
+
+%EV: 
+
+Sondas normofuncionantes.
+
+No arritmias ventriculares sostenidas. 99% en FA. 
+
+Programado: VVI 50
+
+Zonas de Taqui: 
+Zona 1: 171
+Zona 2: 200 lpm
+ZonaFV 240 lpm.
+
+Plan: 
+ - Disminuyo furosemida a 1-1-0. 
+ - Disminuyo HTZ a 25 mg. 
+ - Control con ecocardiograma y analítica en 1.5 meses. 
+
+
+30/8/2023
+
+Mejoría clínica de disnea. NYHA II. Refiere episodios de palpitaciones de 1 h de duración (flutter?)
+
+Tensión arterial 148/89 mmHg. AMPAs 130/80 mmHg 
+EF anodina. No edemas en MMII.
+
+Electrocardiograma: FA. Estimulación ventricular a 50 lpm. 
+
+Analítica. Hemograma 13.5. Creatintina 1.5 mg/dL. HbA1c 8%. NTproBNP 9360 (6310-5880). Ct 160, LDL 87. CA125 no realizado 28. GGT 243
+
+Plan: 
+ - Suspendo Acovil. 
+ - Inicio Bisoprolol 5 mg cada 24 horas. 
+ - Control en un mes con analítica. 
+ - Revisión DAI. 
+
+
+5/4/2023
+
+Tomó dosis extra de furosemida por ligero empeoramiento de de disnea. Maneja muy bien diuréticos en función de síntomas. 
+
+Tensión arterial 159/93 mmHg. AMPAs 130/80 mmHg 
+EF anodina. No edemas en MMII.
+
+Electrocardiograma: FA. Estimulación ventircular a 50 lpm. 
+
+Analítica. Hemograma 12.6. Creatintina 1.4 mg/dL. HbA1c 8%. NTproBNP 6310 (5880). Ct 142, LDL 75. CA125 28 (7). GGT 155
+
+Plan: 
+ - Seguril 1-1/2-0. 
+ - Control en Agosto con analítica. 
+
+8/2/2023
+
+Ha tenido clínica de infección respiratoria con aumento de disnea. Está mejorando con ligera disnea. 
+
+Tensión arterial 149/80 mmHg. AMPAs 130/80 mmHg 
+EF anodina. No edemas en MMII.
+
+Electrocardiograma: FA. Estimulación ventircular a 50 lpm. 
+
+Analítica. Hemograma OK. Creatintina 1.6 mg/dL, FG 47 ml/min. HbA1c 7.5%. NTproBNP 5880 (4420). Ct 174, LDL 95. CA125 7. 
+
+Plan: 
+ - Reinicio Ozempic a dosis de 14 mg (no se lo ha estado tomando). 
+ - Aumento Seguril  1-1-0 duarnte 15 días y posteriormente 1-0-0. 
+ - Control en un mes con analítica. 
+
+
+21/12/2022
+
+Mejoría clínica significativa. NYHA IIb.
+
+Tensión arterial 162/95 mmHg. AMPAs 130/80 mmHg (pocas tomas). 
+EF anodina. No edemas en MMII.
+
+Electrocardiograma: FA. Estimulación ventircular a 50 lpm. 
+
+Analítica. Hemograma OK. Creatintina 1.6 mg/dL, FG 47 ml/min. HbA1c 7.3%. NTproBNP 4420. Ct 167, LDL 85. CA125 7. 
+
+
+Plan: 
+ - Titulo Entresto a 97/103 mg 
+ - Inicio Ozempic 3 mg durante un mes y 7 mg al mes siguiente. 
+ - Control en 2 meses con analítica. 
+
+9/11/2022
+
+Refiere una semana de empeoramiento de disnea que se hizo NYHA III y ligera oliguria. Posteriormente mejoría hasta NYHA IIb. 
+
+Tensión arterial 170/85 mmHg. 
+EF sin edemas en MMII.  
+
+Electrocardiorgama: FA. Estimulación ventricular a 50 lpm.
+
+Ecocardiograma: (02/11/2022):Ventrículo izquierdo con diámetro en límite alto de la normalidad (DTDVI 55 mm) e hipertrofia concéntrica moderada (TIV 14 mm, pared posterior 11 mm). Función sistólica global severamente deprimida (FEVI 34%) secundario a múltiples alteraciones de la contractilidad segmentaria: acinesia anterior, anteroseptal y anterolateral en segmentos basales y medios, y de los segmentos inferior, lateral y septal apical; discinesia de segmento anterior apical; hipocinesia de segmento inferolateral medio. Patrón de llenado ventricular restrictivo (E/A 2,7) con signos indirectos de presiones elevadas (E/e' media de 26). Dilatación biauricular severa: diámetro AI 51 m, área AI 32 cm2, área AD 28 cm2. Válvula aórtica trivalva, con gradientes transvalvulares normales, sin regurgitación. Válvula mitral de apertura normal, con regurgitación ligera (grado II). Ventrículo derecho en límite alto de la normalidad, con función sistólica reducida (TAPSE 15 mm, s' tricu spídea 7,54 cm/s). IT leve que permite estimar PAPs alrededor de 35-37 mmHg. Vena cava inferior dilatada (22 mm), con colapso inspiratorio menor al 50%. Ausencia de derrame pericárdico.
+
+Analítica: Hemograma OK. Creatinina 1.6 mg/dL K+ 4.4. NTproBNP 4640. LDL 146. CA125 6.76. 
+
+Tratamiento: 
+ - Seguril 40 mg 1-0-0
+ - Acovil 2,5 mg: 1 comp en desayuno SUSPENDER. 
+ - Espironolactona 25 mg 1 comp en la comida. 
+ - Xarelto 20 mg: 1 comp al dia
+ - Synjardy 12.5/1000 mg cada 12 horas.
+ - Amlodipino 5 mg.
+ - Zarator 80 mg.
+ - Entresto 49/51 mg (comenzar el día 11/11/2022). 
+ - Emcocor 2.5 mg cada 24 horas. 
+
+Plan: 
+ - Solicito analítica. 
+ - Control en un mes. 
+
+15/6/2022
+
+Situación clínica estable. NYHA IIb.
+
+Tenisón arterial 159/80 mmHg.
+EF sin edemas en MMII. No ascitis.
+
+Electrocardiograma. FA con respuesta ventricular a 48 lpm. Estimulación MP.
+
+Analítica: Hemograma OK. Creatintina 1.6 mg/dL (FG 46 ml/min). HbA1c 7.7%. GGT 109. NtproBNP 2480 (4400).
+CA125 5. Colesterol total 165 mg/dL, LDL 82 mg/dL.
+
+Plan:
+- Inicio Amlodipino 5 mg cada 24 horas.
+- Solicito ecocardiograma.
+- Control en noviembre con ecocardiograma.
+
+***** Visitas previas en Klinic.
+
+05/10/23 Consulta Dispositivos: 
+
+Paciente de 61 años portador de DAI monocameral de Biotronik ACTICOR 7 HT-F
+
+Interrogación del dispositivo: 
+Longevidad: BOS
+
+%EV: 
+
+Sondas normofuncionantes.
+
+No arritmias ventriculares sostenidas. 99% en FA. 
+
+Programado: VVI 50
+
+Zonas de Taqui: 
+Zona 1: 171
+Zona 2: 200 lpm
+ZonaFV 240 lpm.
+
+* 05/10/2023 18:06:38 - Medico: JUAN MIGUEL SANCHEZ GOMEZ - Cardiología general - 
+-------------------------------------------------------------------------
+Disnea.
+
+Insuficiencia cardíaca crónica con fracción de eyección deprimida (FE 40%).
+- Cardiopatía isquéimca (IAM anterior con stent 2012. coproanriografía 2019 con stent permeable).
+- Ascitis severa en al que se descartó orgien hapático que ha requerido paracentesis evacuadora en 2 ocasiones en el último mes.
+- Estado congestivo elevado con edemas en MMII ++++ y niveles muy elevados de CA125 a pesar de tratamiento
+diuretico intensivo (Furosemida a dosis altas, Hidroclorotiazida, Acetazolamida, Espironolactona).
+- Escasa respuesta a bomba elastomérica de furosemida 80 mg /24h.
+- Insuficiencia renal aguda con creatintina en torno a 1.9 mg/dL. ERC con creatinina en torno a 1.6 mg/dL.
+- Flutter auricular lento. DAI monocamenral en 5/2020.
+- Unidad de IC H clinico: paracentesis evacuadoras.
+
+Tratamiento actual:
+
+ - Seguril 40 mg 1-0-0
+ - Espironolactona 25 mg 1 comp en la comida. 
+ - Xarelto 20 mg: 1 comp al dia
+ - Synjardy 12.5/1000 mg cada 24 horas.
+ - Amlodipino 5 mg.
+ - Entresto 97/103 mg cada 12 horas. 
+ - Zarator 80 mg.
+ - Rybelsus 14 mg. 
+ 
+Teléfono: 609864263
+
+30/8/2023
+
+Mejoría clínica de disnea. NYHA II. Refiere episodios de palpitaciones de 1 h de duración (flutter?)
+
+Tensión arterial 148/89 mmHg. AMPAs 130/80 mmHg 
+EF anodina. No edemas en MMII.
+
+Electrocardiograma: FA. Estimulación ventricular a 50 lpm. 
+
+Analítica. Hemograma 13.5. Creatintina 1.5 mg/dL. HbA1c 8%. NTproBNP 9360 (6310-5880). Ct 160, LDL 87. CA125 no realizado 28. GGT 243
+
+Plan: 
+ - Suspendo Acovil. 
+ - Inicio Bisoprolol 5 mg cada 24 horas. 
+ - Control en un mes con analítica. 
+ - Revisión DAI. 
+
+
+5/4/2023
+
+Tomó dosis extra de furosemida por ligero empeoramiento de de disnea. Maneja muy bien diuréticos en función de síntomas. 
+
+Tensión arterial 159/93 mmHg. AMPAs 130/80 mmHg 
+EF anodina. No edemas en MMII.
+
+Electrocardiograma: FA. Estimulación ventircular a 50 lpm. 
+
+Analítica. Hemograma 12.6. Creatintina 1.4 mg/dL. HbA1c 8%. NTproBNP 6310 (5880). Ct 142, LDL 75. CA125 28 (7). GGT 155
+
+Plan: 
+ - Seguril 1-1/2-0. 
+ - Control en Agosto con analítica. 
+
+8/2/2023
+
+Ha tenido clínica de infección respiratoria con aumento de disnea. Está mejorando con ligera disnea. 
+
+Tensión arterial 149/80 mmHg. AMPAs 130/80 mmHg 
+EF anodina. No edemas en MMII.
+
+Electrocardiograma: FA. Estimulación ventircular a 50 lpm. 
+
+Analítica. Hemograma OK. Creatintina 1.6 mg/dL, FG 47 ml/min. HbA1c 7.5%. NTproBNP 5880 (4420). Ct 174, LDL 95. CA125 7. 
+
+Plan: 
+ - Reinicio Ozempic a dosis de 14 mg (no se lo ha estado tomando). 
+ - Aumento Seguril  1-1-0 duarnte 15 días y posteriormente 1-0-0. 
+ - Control en un mes con analítica. 
+
+
+21/12/2022
+
+Mejoría clínica significativa. NYHA IIb.
+
+Tensión arterial 162/95 mmHg. AMPAs 130/80 mmHg (pocas tomas). 
+EF anodina. No edemas en MMII.
+
+Electrocardiograma: FA. Estimulación ventircular a 50 lpm. 
+
+Analítica. Hemograma OK. Creatintina 1.6 mg/dL, FG 47 ml/min. HbA1c 7.3%. NTproBNP 4420. Ct 167, LDL 85. CA125 7. 
+
+
+Plan: 
+ - Titulo Entresto a 97/103 mg 
+ - Inicio Ozempic 3 mg durante un mes y 7 mg al mes siguiente. 
+ - Control en 2 meses con analítica. 
+
+9/11/2022
+
+Refiere una semana de empeoramiento de disnea que se hizo NYHA III y ligera oliguria. Posteriormente mejoría hasta NYHA IIb. 
+
+Tensión arterial 170/85 mmHg. 
+EF sin edemas en MMII.  
+
+Electrocardiorgama: FA. Estimulación ventricular a 50 lpm.
+
+Ecocardiograma: (02/11/2022):Ventrículo izquierdo con diámetro en límite alto de la normalidad (DTDVI 55 mm) e hipertrofia concéntrica moderada (TIV 14 mm, pared posterior 11 mm). Función sistólica global severamente deprimida (FEVI 34%) secundario a múltiples alteraciones de la contractilidad segmentaria: acinesia anterior, anteroseptal y anterolateral en segmentos basales y medios, y de los segmentos inferior, lateral y septal apical; discinesia de segmento anterior apical; hipocinesia de segmento inferolateral medio. Patrón de llenado ventricular restrictivo (E/A 2,7) con signos indirectos de presiones elevadas (E/e' media de 26). Dilatación biauricular severa: diámetro AI 51 m, área AI 32 cm2, área AD 28 cm2. Válvula aórtica trivalva, con gradientes transvalvulares normales, sin regurgitación. Válvula mitral de apertura normal, con regurgitación ligera (grado II). Ventrículo derecho en límite alto de la normalidad, con función sistólica reducida (TAPSE 15 mm, s' tricu spídea 7,54 cm/s). IT leve que permite estimar PAPs alrededor de 35-37 mmHg. Vena cava inferior dilatada (22 mm), con colapso inspiratorio menor al 50%. Ausencia de derrame pericárdico.
+
+Analítica: Hemograma OK. Creatinina 1.6 mg/dL K+ 4.4. NTproBNP 4640. LDL 146. CA125 6.76. 
+
+Tratamiento: 
+ - Seguril 40 mg 1-0-0
+ - Acovil 2,5 mg: 1 comp en desayuno SUSPENDER. 
+ - Espironolactona 25 mg 1 comp en la comida. 
+ - Xarelto 20 mg: 1 comp al dia
+ - Synjardy 12.5/1000 mg cada 12 horas.
+ - Amlodipino 5 mg.
+ - Zarator 80 mg.
+ - Entresto 49/51 mg (comenzar el día 11/11/2022). 
+ - Emcocor 2.5 mg cada 24 horas. 
+
+Plan: 
+ - Solicito analítica. 
+ - Control en un mes. 
+
+15/6/2022
+
+Situación clínica estable. NYHA IIb.
+
+Tenisón arterial 159/80 mmHg.
+EF sin edemas en MMII. No ascitis.
+
+Electrocardiograma. FA con respuesta ventricular a 48 lpm. Estimulación MP.
+
+Analítica: Hemograma OK. Creatintina 1.6 mg/dL (FG 46 ml/min). HbA1c 7.7%. GGT 109. NtproBNP 2480 (4400).
+CA125 5. Colesterol total 165 mg/dL, LDL 82 mg/dL.
+
+Plan:
+- Inicio Amlodipino 5 mg cada 24 horas.
+- Solicito ecocardiograma.
+- Control en noviembre con ecocardiograma.
+
+***** Visitas previas en Klinic.
+
+05/10/23 Consulta Dispositivos: 
+
+Paciente de 61 años portador de DAI monocameral de Biotronik ACTICOR 7 HT-F
+
+Interrogación del dispositivo: 
+Longevidad: BOS
+
+%EV: 
+
+Sondas normofuncionantes.
+
+No arritmias ventriculares sostenidas. 99% en FA. 
+
+Programado: VVI 50
+
+Zonas de Taqui: 
+Zona 1: 171
+Zona 2: 200 lpm
+ZonaFV 240 lpm.
+
+* 30/08/2023 10:08:58 - Medico: AGUSTÍN FERNÁNDEZ CISNAL - Cardiología general - 
+-------------------------------------------------------------------------
+Disnea.
+
+Insuficiencia cardíaca crónica con fracción de eyección deprimida (FE 40%).
+- Cardiopatía isquéimca (IAM anterior con stent 2012. coproanriografía 2019 con stent permeable).
+- Ascitis severa en al que se descartó orgien hapático que ha requerido paracentesis evacuadora en 2 ocasiones en el último mes.
+- Estado congestivo elevado con edemas en MMII ++++ y niveles muy elevados de CA125 a pesar de tratamiento
+diuretico intensivo (Furosemida a dosis altas, Hidroclorotiazida, Acetazolamida, Espironolactona).
+- Escasa respuesta a bomba elastomérica de furosemida 80 mg /24h.
+- Insuficiencia renal aguda con creatintina en torno a 1.9 mg/dL. ERC con creatinina en torno a 1.6 mg/dL.
+- Flutter auricular lento. DAI monocamenral en 5/2020.
+- Unidad de IC H clinico: paracentesis evacuadoras.
+
+Tratamiento actual:
+
+ - Seguril 40 mg 1-0-0
+ - Espironolactona 25 mg 1 comp en la comida. 
+ - Xarelto 20 mg: 1 comp al dia
+ - Synjardy 12.5/1000 mg cada 24 horas.
+ - Amlodipino 5 mg.
+ - Entresto 97/103 mg cada 12 horas. 
+ - Zarator 80 mg.
+ - Rybelsus 14 mg. 
+ 
+Teléfono: 609864263
+
+30/8/2023
+
+Mejoría clínica de disnea. NYHA II. Refiere episodios de palpitaciones de 1 h de duración (flutter?)
+
+Tensión arterial 148/89 mmHg. AMPAs 130/80 mmHg 
+EF anodina. No edemas en MMII.
+
+Electrocardiograma: FA. Estimulación ventricular a 50 lpm. 
+
+Analítica. Hemograma 13.5. Creatintina 1.5 mg/dL. HbA1c 8%. NTproBNP 9360 (6310-5880). Ct 160, LDL 87. CA125 no realizado 28. GGT 243
+
+Plan: 
+ - Suspendo Acovil. 
+ - Inicio Bisoprolol 5 mg cada 24 horas. 
+ - Control en un mes con analítica. 
+ - Revisión DAI. 
+
+
+5/4/2023
+
+Tomó dosis extra de furosemida por ligero empeoramiento de de disnea. Maneja muy bien diuréticos en función de síntomas. 
+
+Tensión arterial 159/93 mmHg. AMPAs 130/80 mmHg 
+EF anodina. No edemas en MMII.
+
+Electrocardiograma: FA. Estimulación ventircular a 50 lpm. 
+
+Analítica. Hemograma 12.6. Creatintina 1.4 mg/dL. HbA1c 8%. NTproBNP 6310 (5880). Ct 142, LDL 75. CA125 28 (7). GGT 155
+
+Plan: 
+ - Seguril 1-1/2-0. 
+ - Control en Agosto con analítica. 
+
+8/2/2023
+
+Ha tenido clínica de infección respiratoria con aumento de disnea. Está mejorando con ligera disnea. 
+
+Tensión arterial 149/80 mmHg. AMPAs 130/80 mmHg 
+EF anodina. No edemas en MMII.
+
+Electrocardiograma: FA. Estimulación ventircular a 50 lpm. 
+
+Analítica. Hemograma OK. Creatintina 1.6 mg/dL, FG 47 ml/min. HbA1c 7.5%. NTproBNP 5880 (4420). Ct 174, LDL 95. CA125 7. 
+
+Plan: 
+ - Reinicio Ozempic a dosis de 14 mg (no se lo ha estado tomando). 
+ - Aumento Seguril  1-1-0 duarnte 15 días y posteriormente 1-0-0. 
+ - Control en un mes con analítica. 
+
+
+21/12/2022
+
+Mejoría clínica significativa. NYHA IIb.
+
+Tensión arterial 162/95 mmHg. AMPAs 130/80 mmHg (pocas tomas). 
+EF anodina. No edemas en MMII.
+
+Electrocardiograma: FA. Estimulación ventircular a 50 lpm. 
+
+Analítica. Hemograma OK. Creatintina 1.6 mg/dL, FG 47 ml/min. HbA1c 7.3%. NTproBNP 4420. Ct 167, LDL 85. CA125 7. 
+
+
+Plan: 
+ - Titulo Entresto a 97/103 mg 
+ - Inicio Ozempic 3 mg durante un mes y 7 mg al mes siguiente. 
+ - Control en 2 meses con analítica. 
+
+9/11/2022
+
+Refiere una semana de empeoramiento de disnea que se hizo NYHA III y ligera oliguria. Posteriormente mejoría hasta NYHA IIb. 
+
+Tensión arterial 170/85 mmHg. 
+EF sin edemas en MMII.  
+
+Electrocardiorgama: FA. Estimulación ventricular a 50 lpm.
+
+Ecocardiograma: (02/11/2022):Ventrículo izquierdo con diámetro en límite alto de la normalidad (DTDVI 55 mm) e hipertrofia concéntrica moderada (TIV 14 mm, pared posterior 11 mm). Función sistólica global severamente deprimida (FEVI 34%) secundario a múltiples alteraciones de la contractilidad segmentaria: acinesia anterior, anteroseptal y anterolateral en segmentos basales y medios, y de los segmentos inferior, lateral y septal apical; discinesia de segmento anterior apical; hipocinesia de segmento inferolateral medio. Patrón de llenado ventricular restrictivo (E/A 2,7) con signos indirectos de presiones elevadas (E/e' media de 26). Dilatación biauricular severa: diámetro AI 51 m, área AI 32 cm2, área AD 28 cm2. Válvula aórtica trivalva, con gradientes transvalvulares normales, sin regurgitación. Válvula mitral de apertura normal, con regurgitación ligera (grado II). Ventrículo derecho en límite alto de la normalidad, con función sistólica reducida (TAPSE 15 mm, s' tricu spídea 7,54 cm/s). IT leve que permite estimar PAPs alrededor de 35-37 mmHg. Vena cava inferior dilatada (22 mm), con colapso inspiratorio menor al 50%. Ausencia de derrame pericárdico.
+
+Analítica: Hemograma OK. Creatinina 1.6 mg/dL K+ 4.4. NTproBNP 4640. LDL 146. CA125 6.76. 
+
+Tratamiento: 
+ - Seguril 40 mg 1-0-0
+ - Acovil 2,5 mg: 1 comp en desayuno SUSPENDER. 
+ - Espironolactona 25 mg 1 comp en la comida. 
+ - Xarelto 20 mg: 1 comp al dia
+ - Synjardy 12.5/1000 mg cada 12 horas.
+ - Amlodipino 5 mg.
+ - Zarator 80 mg.
+ - Entresto 49/51 mg (comenzar el día 11/11/2022). 
+ - Emcocor 2.5 mg cada 24 horas. 
+
+Plan: 
+ - Solicito analítica. 
+ - Control en un mes. 
+
+15/6/2022
+
+Situación clínica estable. NYHA IIb.
+
+Tenisón arterial 159/80 mmHg.
+EF sin edemas en MMII. No ascitis.
+
+Electrocardiograma. FA con respuesta ventricular a 48 lpm. Estimulación MP.
+
+Analítica: Hemograma OK. Creatintina 1.6 mg/dL (FG 46 ml/min). HbA1c 7.7%. GGT 109. NtproBNP 2480 (4400).
+CA125 5. Colesterol total 165 mg/dL, LDL 82 mg/dL.
+
+Plan:
+- Inicio Amlodipino 5 mg cada 24 horas.
+- Solicito ecocardiograma.
+- Control en noviembre con ecocardiograma.
+
+***** Visitas previas en Klinic.
+
+* 05/04/2023 11:48:29 - Medico: AGUSTÍN FERNÁNDEZ CISNAL - Cardiología general - 
+-------------------------------------------------------------------------
+Disnea.
+
+Insuficiencia cardíaca crónica con fracción de eyección deprimida (FE 40%).
+- Cardiopatía isquéimca (IAM anterior con stent 2012. coproanriografía 2019 con stent permeable).
+- Ascitis severa en al que se descartó orgien hapático que ha requerido paracentesis evacuadora en 2 ocasiones en el último mes.
+- Estado congestivo elevado con edemas en MMII ++++ y niveles muy elevados de CA125 a pesar de tratamiento
+diuretico intensivo (Furosemida a dosis altas, Hidroclorotiazida, Acetazolamida, Espironolactona).
+- Escasa respuesta a bomba elastomérica de furosemida 80 mg /24h.
+- Insuficiencia renal aguda con creatintina en torno a 1.9 mg/dL. ERC con creatinina en torno a 1.6 mg/dL.
+-Flutter auricular lento. DAI monocamenral en 5/2020.
+- Unidad de IC H clinico: paracentesis evacuadoras.
+
+Tratamiento actual:
+
+ - Seguril 40 mg 1-0-0
+ - Acovil 2,5 mg: 1 comp en desayuno
+ - Espironolactona 25 mg 1 comp en la comida. 
+ - Xarelto 20 mg: 1 comp al dia
+ - Synjardy 12.5/1000 mg cada 24 horas.
+ - Amlodipino 5 mg.
+ - Entresto 97/103 mg cada 12 horas. 
+ - Zarator 80 mg.
+ - Rybelsus 14 mg. 
+ 
+Teléfono: 609864263
+
+5/4/2023
+
+Tomó dosis extra de furosemida por ligero empeoramiento de de disnea. Maneja muy bien diuréticos en función de síntomas. 
+
+Tensión arterial 159/93 mmHg. AMPAs 130/80 mmHg 
+EF anodina. No edemas en MMII.
+
+Electrocardiograma: FA. Estimulación ventircular a 50 lpm. 
+
+Analítica. Hemograma 12.6. Creatintina 1.4 mg/dL. HbA1c 8%. NTproBNP 6310 (5880). Ct 142, LDL 75. CA125 28 (7). GGT 155
+
+Plan: 
+ - Seguril 1-1/2-0. 
+ - Control en Agosto con analítica. 
+
+8/2/2023
+
+Ha tenido clínica de infección respiratoria con aumento de disnea. Está mejorando con ligera disnea. 
+
+Tensión arterial 149/80 mmHg. AMPAs 130/80 mmHg 
+EF anodina. No edemas en MMII.
+
+Electrocardiograma: FA. Estimulación ventircular a 50 lpm. 
+
+Analítica. Hemograma OK. Creatintina 1.6 mg/dL, FG 47 ml/min. HbA1c 7.5%. NTproBNP 5880 (4420). Ct 174, LDL 95. CA125 7. 
+
+Plan: 
+ - Reinicio Ozempic a dosis de 14 mg (no se lo ha estado tomando). 
+ - Aumento Seguril  1-1-0 duarnte 15 días y posteriormente 1-0-0. 
+ - Control en un mes con analítica. 
+
+
+21/12/2022
+
+Mejoría clínica significativa. NYHA IIb.
+
+Tensión arterial 162/95 mmHg. AMPAs 130/80 mmHg (pocas tomas). 
+EF anodina. No edemas en MMII.
+
+Electrocardiograma: FA. Estimulación ventircular a 50 lpm. 
+
+Analítica. Hemograma OK. Creatintina 1.6 mg/dL, FG 47 ml/min. HbA1c 7.3%. NTproBNP 4420. Ct 167, LDL 85. CA125 7. 
+
+
+Plan: 
+ - Titulo Entresto a 97/103 mg 
+ - Inicio Ozempic 3 mg durante un mes y 7 mg al mes siguiente. 
+ - Control en 2 meses con analítica. 
+
+9/11/2022
+
+Refiere una semana de empeoramiento de disnea que se hizo NYHA III y ligera oliguria. Posteriormente mejoría hasta NYHA IIb. 
+
+Tensión arterial 170/85 mmHg. 
+EF sin edemas en MMII.  
+
+Electrocardiorgama: FA. Estimulación ventricular a 50 lpm.
+
+Ecocardiograma: (02/11/2022):Ventrículo izquierdo con diámetro en límite alto de la normalidad (DTDVI 55 mm) e hipertrofia concéntrica moderada (TIV 14 mm, pared posterior 11 mm). Función sistólica global severamente deprimida (FEVI 34%) secundario a múltiples alteraciones de la contractilidad segmentaria: acinesia anterior, anteroseptal y anterolateral en segmentos basales y medios, y de los segmentos inferior, lateral y septal apical; discinesia de segmento anterior apical; hipocinesia de segmento inferolateral medio. Patrón de llenado ventricular restrictivo (E/A 2,7) con signos indirectos de presiones elevadas (E/e' media de 26). Dilatación biauricular severa: diámetro AI 51 m, área AI 32 cm2, área AD 28 cm2. Válvula aórtica trivalva, con gradientes transvalvulares normales, sin regurgitación. Válvula mitral de apertura normal, con regurgitación ligera (grado II). Ventrículo derecho en límite alto de la normalidad, con función sistólica reducida (TAPSE 15 mm, s' tricu spídea 7,54 cm/s). IT leve que permite estimar PAPs alrededor de 35-37 mmHg. Vena cava inferior dilatada (22 mm), con colapso inspiratorio menor al 50%. Ausencia de derrame pericárdico.
+
+Analítica: Hemograma OK. Creatinina 1.6 mg/dL K+ 4.4. NTproBNP 4640. LDL 146. CA125 6.76. 
+
+Tratamiento: 
+ - Seguril 40 mg 1-0-0
+ - Acovil 2,5 mg: 1 comp en desayuno SUSPENDER. 
+ - Espironolactona 25 mg 1 comp en la comida. 
+ - Xarelto 20 mg: 1 comp al dia
+ - Synjardy 12.5/1000 mg cada 12 horas.
+ - Amlodipino 5 mg.
+ - Zarator 80 mg.
+ - Entresto 49/51 mg (comenzar el día 11/11/2022). 
+ - Emcocor 2.5 mg cada 24 horas. 
+
+Plan: 
+ - Solicito analítica. 
+ - Control en un mes. 
+
+15/6/2022
+
+Situación clínica estable. NYHA IIb.
+
+Tenisón arterial 159/80 mmHg.
+EF sin edemas en MMII. No ascitis.
+
+Electrocardiograma. FA con respuesta ventricular a 48 lpm. Estimulación MP.
+
+Analítica: Hemograma OK. Creatintina 1.6 mg/dL (FG 46 ml/min). HbA1c 7.7%. GGT 109. NtproBNP 2480 (4400).
+CA125 5. Colesterol total 165 mg/dL, LDL 82 mg/dL.
+
+Plan:
+- Inicio Amlodipino 5 mg cada 24 horas.
+- Solicito ecocardiograma.
+- Control en noviembre con ecocardiograma.
+
+***** Visitas previas en Klinic.
+
+* 08/02/2023 12:38:22 - Medico: AGUSTÍN FERNÁNDEZ CISNAL - Cardiología general - 
+-------------------------------------------------------------------------
+Disnea.
+
+Insuficiencia cardíaca crónica con fracción de eyección deprimida (FE 40%).
+- Cardiopatía isquéimca (IAM anterior con stent 2012. coproanriografía 2019 con stent permeable).
+- Ascitis severa en al que se descartó orgien hapático que ha requerido paracentesis evacuadora en 2 ocasiones en el último mes.
+- Estado congestivo elevado con edemas en MMII ++++ y niveles muy elevados de CA125 a pesar de tratamiento
+diuretico intensivo (Furosemida a dosis altas, Hidroclorotiazida, Acetazolamida, Espironolactona).
+- Escasa respuesta a bomba elastomérica de furosemida 80 mg /24h.
+- Insuficiencia renal aguda con creatintina en torno a 1.9 mg/dL. ERC con creatinina en torno a 1.6 mg/dL.
+-Flutter auricular lento. DAI monocamenral en 5/2020.
+- Unidad de IC H clinico: paracentesis evacuadoras.
+
+Tratamiento actual:
+
+ - Seguril 40 mg 1-1-0
+ - Acovil 2,5 mg: 1 comp en desayuno
+ - Espironolactona 25 mg 1 comp en la comida. 
+ - Xarelto 20 mg: 1 comp al dia
+ - Synjardy 12.5/1000 mg cada 24 horas.
+ - Amlodipino 5 mg.
+ - Entresto 97/103 mg cada 12 horas. 
+ - Zarator 80 mg.
+ - Rybelsus 14 mg. 
+ 
+Teléfono: 609864263
+
+8/2/2023
+
+Ha tenido clínica de infección respiratoria con aumento de disnea. Está mejorando con ligera disnea. 
+
+Tensión arterial 149/80 mmHg. AMPAs 130/80 mmHg 
+EF anodina. No edemas en MMII.
+
+Electrocardiograma: FA. Estimulación ventircular a 50 lpm. 
+
+Analítica. Hemograma OK. Creatintina 1.6 mg/dL, FG 47 ml/min. HbA1c 7.5%. NTproBNP 5880 (4420). Ct 174, LDL 95. CA125 7. 
+
+Plan: 
+ - Reinicio Ozempic a dosis de 14 mg (no se lo ha estado tomando). 
+ - Aumento Seguril  1-1-0 duarnte 15 días y posteriormente 1-0-0. 
+ - Control en un mes con analítica. 
+
+
+21/12/2022
+
+Mejoría clínica significativa. NYHA IIb.
+
+Tensión arterial 162/95 mmHg. AMPAs 130/80 mmHg (pocas tomas). 
+EF anodina. No edemas en MMII.
+
+Electrocardiograma: FA. Estimulación ventircular a 50 lpm. 
+
+Analítica. Hemograma OK. Creatintina 1.6 mg/dL, FG 47 ml/min. HbA1c 7.3%. NTproBNP 4420. Ct 167, LDL 85. CA125 7. 
+
+
+Plan: 
+ - Titulo Entresto a 97/103 mg 
+ - Inicio Ozempic 3 mg durante un mes y 7 mg al mes siguiente. 
+ - Control en 2 meses con analítica. 
+
+9/11/2022
+
+Refiere una semana de empeoramiento de disnea que se hizo NYHA III y ligera oliguria. Posteriormente mejoría hasta NYHA IIb. 
+
+Tensión arterial 170/85 mmHg. 
+EF sin edemas en MMII.  
+
+Electrocardiorgama: FA. Estimulación ventricular a 50 lpm.
+
+Ecocardiograma: (02/11/2022):Ventrículo izquierdo con diámetro en límite alto de la normalidad (DTDVI 55 mm) e hipertrofia concéntrica moderada (TIV 14 mm, pared posterior 11 mm). Función sistólica global severamente deprimida (FEVI 34%) secundario a múltiples alteraciones de la contractilidad segmentaria: acinesia anterior, anteroseptal y anterolateral en segmentos basales y medios, y de los segmentos inferior, lateral y septal apical; discinesia de segmento anterior apical; hipocinesia de segmento inferolateral medio. Patrón de llenado ventricular restrictivo (E/A 2,7) con signos indirectos de presiones elevadas (E/e' media de 26). Dilatación biauricular severa: diámetro AI 51 m, área AI 32 cm2, área AD 28 cm2. Válvula aórtica trivalva, con gradientes transvalvulares normales, sin regurgitación. Válvula mitral de apertura normal, con regurgitación ligera (grado II). Ventrículo derecho en límite alto de la normalidad, con función sistólica reducida (TAPSE 15 mm, s' tricu spídea 7,54 cm/s). IT leve que permite estimar PAPs alrededor de 35-37 mmHg. Vena cava inferior dilatada (22 mm), con colapso inspiratorio menor al 50%. Ausencia de derrame pericárdico.
+
+Analítica: Hemograma OK. Creatinina 1.6 mg/dL K+ 4.4. NTproBNP 4640. LDL 146. CA125 6.76. 
+
+Tratamiento: 
+ - Seguril 40 mg 1-0-0
+ - Acovil 2,5 mg: 1 comp en desayuno SUSPENDER. 
+ - Espironolactona 25 mg 1 comp en la comida. 
+ - Xarelto 20 mg: 1 comp al dia
+ - Synjardy 12.5/1000 mg cada 12 horas.
+ - Amlodipino 5 mg.
+ - Zarator 80 mg.
+ - Entresto 49/51 mg (comenzar el día 11/11/2022). 
+ - Emcocor 2.5 mg cada 24 horas. 
+
+Plan: 
+ - Solicito analítica. 
+ - Control en un mes. 
+
+15/6/2022
+
+Situación clínica estable. NYHA IIb.
+
+Tenisón arterial 159/80 mmHg.
+EF sin edemas en MMII. No ascitis.
+
+Electrocardiograma. FA con respuesta ventricular a 48 lpm. Estimulación MP.
+
+Analítica: Hemograma OK. Creatintina 1.6 mg/dL (FG 46 ml/min). HbA1c 7.7%. GGT 109. NtproBNP 2480 (4400).
+CA125 5. Colesterol total 165 mg/dL, LDL 82 mg/dL.
+
+Plan:
+- Inicio Amlodipino 5 mg cada 24 horas.
+- Solicito ecocardiograma.
+- Control en noviembre con ecocardiograma.
+
+***** Visitas previas en Klinic.
+
+* 21/12/2022 11:36:30 - Medico: AGUSTÍN FERNÁNDEZ CISNAL - Cardiología general - 
+-------------------------------------------------------------------------
+Disnea.
+
+Insuficiencia cardíaca crónica con fracción de eyección deprimida (FE 40%).
+- Cardiopatía isquéimca (IAM anterior con stent 2012. coproanriografía 2019 con stent permeable).
+- Ascitis severa en al que se descartó orgien hapático que ha requerido paracentesis evacuadora en 2 ocasiones en el último mes.
+- Estado congestivo elevado con edemas en MMII ++++ y niveles muy elevados de CA125 a pesar de tratamiento
+diuretico intensivo (Furosemida a dosis altas, Hidroclorotiazida, Acetazolamida, Espironolactona).
+- Escasa respuesta a bomba elastomérica de furosemida 80 mg /24h.
+- Insuficiencia renal aguda con creatintina en torno a 1.9 mg/dL. ERC con creatinina en torno a 1.6 mg/dL.
+-Flutter auricular lento. DAI monocamenral en 5/2020.
+- Unidad de IC H clinico: paracentesis evacuadoras.
+
+Tratamiento actual:
+
+ - Seguril 40 mg 1-0-0
+ - Acovil 2,5 mg: 1 comp en desayuno
+ - Espironolactona 25 mg 1 comp en la comida. 
+ - Xarelto 20 mg: 1 comp al dia
+ - Synjardy 12.5/1000 mg cada 24 horas.
+ - Amlodipino 5 mg.
+ - Entresto 97/103 mg cada 12 horas. 
+ - Zarator 80 mg.
+ - Rybelsus. 
+ 
+Teléfono: 609864263
+
+21/12/2022
+
+Mejoría clínica significativa. NYHA IIb.
+
+Tensión arterial 162/95 mmHg. AMPAs 130/80 mmHg (pocas tomas). 
+EF anodina. No edemas en MMII.
+
+Electrocardiograma: FA. Estimulación ventircular a 50 lpm. 
+
+Analítica. Hemograma OK. Creatintina 1.6 mg/dL, FG 47 ml/min. HbA1c 7.3%. NTproBNP 4420. Ct 167, LDL 85. CA125 7. 
+
+
+Plan: 
+ - Titulo Entresto a 97/103 mg 
+ - Inicio Ozempic 3 mg durante un mes y 7 mg al mes siguiente. 
+ - Control en 2 meses con analítica. 
+
+9/11/2022
+
+Refiere una semana de empeoramiento de disnea que se hizo NYHA III y ligera oliguria. Posteriormente mejoría hasta NYHA IIb. 
+
+Tensión arterial 170/85 mmHg. 
+EF sin edemas en MMII.  
+
+Electrocardiorgama: FA. Estimulación ventricular a 50 lpm.
+
+Ecocardiograma: (02/11/2022):Ventrículo izquierdo con diámetro en límite alto de la normalidad (DTDVI 55 mm) e hipertrofia concéntrica moderada (TIV 14 mm, pared posterior 11 mm). Función sistólica global severamente deprimida (FEVI 34%) secundario a múltiples alteraciones de la contractilidad segmentaria: acinesia anterior, anteroseptal y anterolateral en segmentos basales y medios, y de los segmentos inferior, lateral y septal apical; discinesia de segmento anterior apical; hipocinesia de segmento inferolateral medio. Patrón de llenado ventricular restrictivo (E/A 2,7) con signos indirectos de presiones elevadas (E/e' media de 26). Dilatación biauricular severa: diámetro AI 51 m, área AI 32 cm2, área AD 28 cm2. Válvula aórtica trivalva, con gradientes transvalvulares normales, sin regurgitación. Válvula mitral de apertura normal, con regurgitación ligera (grado II). Ventrículo derecho en límite alto de la normalidad, con función sistólica reducida (TAPSE 15 mm, s' tricu spídea 7,54 cm/s). IT leve que permite estimar PAPs alrededor de 35-37 mmHg. Vena cava inferior dilatada (22 mm), con colapso inspiratorio menor al 50%. Ausencia de derrame pericárdico.
+
+Analítica: Hemograma OK. Creatinina 1.6 mg/dL K+ 4.4. NTproBNP 4640. LDL 146. CA125 6.76. 
+
+Tratamiento: 
+ - Seguril 40 mg 1-0-0
+ - Acovil 2,5 mg: 1 comp en desayuno SUSPENDER. 
+ - Espironolactona 25 mg 1 comp en la comida. 
+ - Xarelto 20 mg: 1 comp al dia
+ - Synjardy 12.5/1000 mg cada 12 horas.
+ - Amlodipino 5 mg.
+ - Zarator 80 mg.
+ - Entresto 49/51 mg (comenzar el día 11/11/2022). 
+ - Emcocor 2.5 mg cada 24 horas. 
+
+Plan: 
+ - Solicito analítica. 
+ - Control en un mes. 
+
+15/6/2022
+
+Situación clínica estable. NYHA IIb.
+
+Tenisón arterial 159/80 mmHg.
+EF sin edemas en MMII. No ascitis.
+
+Electrocardiograma. FA con respuesta ventricular a 48 lpm. Estimulación MP.
+
+Analítica: Hemograma OK. Creatintina 1.6 mg/dL (FG 46 ml/min). HbA1c 7.7%. GGT 109. NtproBNP 2480 (4400).
+CA125 5. Colesterol total 165 mg/dL, LDL 82 mg/dL.
+
+Plan:
+- Inicio Amlodipino 5 mg cada 24 horas.
+- Solicito ecocardiograma.
+- Control en noviembre con ecocardiograma.

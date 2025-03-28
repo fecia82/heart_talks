@@ -1,0 +1,652 @@
+EVOLUCIÓN: 29/11/2023
+
+Revisión por FA persistente (CVE 2021). HTA 4 farmacos. BAV 1er grado. 
+Tratamiento: Valsartan/Amlodipino/HTZ  320/10/25 mg. Carduran 8 mg cada 24 horas. Xarelto 20 mg. Forxiga 10 mg. Efficib 100 mg. 
+
+Asintomático. 
+
+TA 163/81 mmHg. AMPAs con aceptable control. 
+EF anodina. 
+
+ECG: RS a 66 lpm. PR 300 ms. 
+
+Plan: 
+ - Control en 6 meses con analítica y Holter. 
+
+----
+Varón de 69 años
+No RAM conocidas.
+FFRCV: HTA, DM2
+Antecedentes personales: 
+- Fibrilación auricular paroxística. CVE 2021. 
+Medicación habitual: Valsartan/Amlodipino/HTZ  320/10/25 mg. Carduran 8 mg cada 24 horas. Xarelto 20 mg. Forxiga 10 mg. Efficib 100 mg. 
+
+Auscultación cardiaca: ruidos cardiacos regulares, sin soplos.
+Auscultación pulmonar: murmullo vesicular conservado sin ruidos patológicos.
+Sin edema en MMII. 
+
+Se encuentra muy bien. Vida activa. Va al gimnasio todos los días. 
+
+Ecocardiograma transtorácico (2021):  VI de tamaño normal (DTDVI  56 mm)  contractilidad global y segmentaria normal. Hipertrofia concentrica  severa (Septo  17 mm, PPVI  15 mm) . FEVI por Teichholz  55   %, FEVI por Simpson  54  % Patrón diastólico de flujo transmitral: patron  pseudo normal E/A 1,2  E/em  13,2  VD  de t amaño normal (VDD basal  39 mm). Contractilidad normal: TAPSE23   mm. s ´VD  16,8 cm/s AI severamente dilatada ( 52 mm, area de 27   cm2, )  AD dilatada  Válvula aórtica trivalva, con  leve esclerosis, gradientes normales (grad max 14  mmHg)  No detecto regurgitación. Válvula mitral , con buena apertura, ligera  regurgitación central Válvula tricuspide con insuficiencia trivial, que permite estimar PAPS de  31 mmHg Vena cava inferior no dilatada,con colapso inspiratorio > 50% Ausencia de derrame pericárdico. AORTA:diámetros normales: senos de valsalva  39 mm, aorta tubular  38 mm,
+
+HOLTER TA : 
+PA media durante el registro: 135/74 mmHg
+PA media diurna: 134/75 mmHg
+PA media nocturna: 137/68 mmHg
+Conclusión: HTA leve. No dipper. 
+
+No analítica
+
+PLAN:
+- Cita en 6 meses con analítica
+
+
+19/10/2022
+
+FA. Xarelto 20 mg. Emconcor 2.5 mg. 
+HTA. Valsartan/Amlodipino/HTZ  160/10/25 mg. Carduran 8 mg cada 24 horas. 
+DM: Forxiga 10 mg. Efficib 100 mg. 
+
+Asintomático. Solo toma el carduran por la noche. 
+
+Tensión arterial 160/86 mmHg. Refiere AMPAs en torno 150 mmHg. 
+EF anodina. 
+
+Electrocardiograma: Ritmo sinusal a 67 lpm. PR largo (240 ms). Sin alteraciones. 
+
+Plan: 
+- Aumento Dafiro a 320/10/25 mg. 
+- Control 3 meses con AMPAs. 
+
+13/12/2021
+
+Asintomático. 
+
+Tensión arterial 165/83 mmHg. Refiere AMPAs en torno a 140/150 mmHg. 
+EF anodina. 
+
+Electrocardiograma: Ritmo sinusal a 55 lpm. PR largo (280 ms). Sin alteraciones. 
+
+Plan: 
+ - Aumento Carduran a 8 mg cada 12 horas. 
+ - Control 6 meses. 
+
+17/11/2021
+
+Asintomático. No palptiaciones. 
+
+Tensión arterial 151/81 mmHg. Aporta AMPAs con mal control 150-160 mmHg. 
+EF normal. 
+
+Electrocardiograma: Ritmo sinusal a 58 lpm. PR largo (240 ms).QRS estrecho Sin alteraciones. 
+
+Plan: 
+ - Añado Carduran 8 mg cada 24 horas. 
+ - Control en un mes con AMPA. 
+
+13/10/2021
+
+Asintomático desde la cardioversión. 
+
+Tensión arterial 162/86 mmHg. AMPAs también elevadas. 
+
+Ef anodina. 
+
+Ecocardiograma: VI de tamaño normal (DTDVI  56 mm)  contractilidad global y segmentaria normal. Hipertrofia concentrica  severa (Septo  17 mm, PPVI  15 mm) . FEVI por Teichholz  55   %, FEVI por Simpson  54  %
+Patrón diastólico de flujo transmitral: patron  pseudo normal E/A 1,2  E/em  13,2  VD  de tamaño normal (VDD basal  39 mm). Contractilidad normal: TAPSE23   mm. s ´VD  16,8 cm/s AI severamente dilatada ( 52 mm, area de 27   cm2, )  AD dilatada  Válvula aórtica trivalva, con  leve esclerosis, gradientes normales (grad max 14  mmHg)  No detecto regurgitación. Vá lvula mitral , con buena apertura, ligera  regurgitación centralV álvula tricuspide con insuficiencia trivial, que permite estimar PAPS de  31 mmHg Vena cava inferior no dilatada,con colapso inspiratorio > 50% Ausencia de derrame pericárdico. AORTA:diámetros normales: senos de valsalva  39 mm, aorta tubular  38 mm, 
+ 
+
+Plan: 
+ - Control un mes con AMPAs. 
+
+20/1/2021
+
+Asintomático. Refiere mejoría subjetiva. 
+
+Cardioversión efectiva: Previa sedación con diazepam y etomidato se administra un choque DC bifásico sincronizado de 200 J en posición AP modificada de palas, logranbdo la reversión a ritmo sinusal.
+El procedimiento se realiza sin complicaciones. 
+
+Juicio
+Fibrilación auricular persistente.
+Cardioversión eléctrica efectiva.
+
+Electrocardiograma: Ritmo sinusal a 62 lpm. PR largo (290 ms). Eje izquierdo. Escasa progresión de R en precordiales. 
+
+Plan: 
+ - Suspendo trangorex. 
+ - Mantengo Xarelto. 
+ - Control en 2 meses con ecocardiograma y Holter. 
+
+16/12/2020
+
+Electrocardiograma: Fibrilación auricular con respuesta ventricular a 49 lpm. 
+
+Plan. 
+ - Solicito Cardioversión eléctrica. 
+
+
+4/11/2020
+
+No se realizó CVE por no haber tomado anticoagulación por problemas burocráticos. 
+
+Tensión arterial 166/84 mmHg. 
+EF anodina. 
+
+Electrocardiograma: Fibrilación auricualr con respuesta ventricualr a 55 lpm.Sin cambios. 
+
+Plan: 
+ - Inicio de nuevo Xarelto 20 mg y trangorex. 
+ - Cita en un mes. Si está en FA y tomando anticoagulación solicitar de nuevo CVE.  
+
+7/10/2020
+
+Asintomático. 
+
+Ecocardiograma: Aurícula izquierda severamente dilatada. Función biventricular conservada. Ausencia de valvulopatías. Hipertrofia ventricfula izuqierda severa (Septo 17 mm, pared posterior 14 mm). 
+
+Analítica: NT proBNP 32
+2. Colesterol total 187 mg7DL. LDL 105 mg/dL. HbA1c 9.4%. CA125 20. 
+
+Electrocardiograma: Fibrilación auricular con respuesta ventricular a 60 lpm. 
+
+Plan: 
+ - Solicito cardioversión eléctrica. 
+ - Inicio Amiodarona 200 mg 1 comprimido cada 24 horas. 
+ - Derivo a Endocrinología. 
+ - Control tras CVE.
+
+* 05/07/2023 11:18:54 - Medico: MIGUEL LORENZO HERNANDEZ - Cardiología general - 
+-------------------------------------------------------------------------
+EVOLUCIÓN: Varón de 69 años
+No RAM conocidas.
+FFRCV: HTA, DM2
+Antecedentes personales: 
+- Fibrilación auricular paroxística. CVE 2021. 
+Medicación habitual: Valsartan/Amlodipino/HTZ  320/10/25 mg. Carduran 8 mg cada 24 horas. Xarelto 20 mg. Forxiga 10 mg. Efficib 100 mg. 
+
+Auscultación cardiaca: ruidos cardiacos regulares, sin soplos.
+Auscultación pulmonar: murmullo vesicular conservado sin ruidos patológicos.
+Sin edema en MMII. 
+
+Se encuentra muy bien. Vida activa. Va al gimnasio todos los días. 
+
+Ecocardiograma transtorácico (2021):  VI de tamaño normal (DTDVI  56 mm)  contractilidad global y segmentaria normal.
+Hipertrofia concentrica  severa (Septo  17 mm, PPVI  15 mm) .
+FEVI por Teichholz  55   %, FEVI por Simpson  54  %
+Patrón diastólico de flujo transmitral: patron  pseudo normal E/A 1,2  E/em  13,2 
+VD  de t
+amaño normal (VDD basal  39 mm). Contractilidad normal: TAPSE23   mm. s ´VD  16,8 cm/s
+AI severamente dilatada ( 52 mm, area de 27   cm2, )  AD dilatada 
+Válvula aórtica trivalva, con  leve esclerosis, gradientes normales (grad max 14  mmHg)  No detecto regurgitación.
+Válvula mitral , con buena apertura, ligera  regurgitación central
+Válvula tricuspide con insuficiencia trivial, que permite estimar PAPS de  31 mmHg
+Vena cava inferior no dilatada,con colapso inspiratorio > 50%
+Ausencia de derrame pericárdico.
+AORTA:diámetros normales: senos de valsalva  39 mm, aorta tubular  38 mm,
+
+HOLTER TA : 
+PA media durante el registro: 135/74 mmHg
+PA media diurna: 134/75 mmHg
+PA media nocturna: 137/68 mmHg
+Conclusión: HTA leve. No dipper. 
+
+No analítica
+
+PLAN:
+- Cita en 6 meses con analítica
+
+* 05/07/2023 8:49:36 - Medico: MIGUEL LORENZO HERNANDEZ - Cardiología general - 
+-------------------------------------------------------------------------
+Varón de 69 años
+No RAM conocidas.
+FFRCV: HTA, DM2
+Antecedentes personales: 
+- Fibrilación auricular paroxística. CVE 2021. 
+Medicación habitual: Valsartan/Amlodipino/HTZ  320/10/25 mg. Carduran 8 mg cada 24 horas. Xarelto 20 mg.Forxiga 10 mg. Efficib 100 mg. Amiodarona?????
+
+PA: mmHg. FC: lpm.
+Auscultación cardiaca: ruidos cardiacos regulares, sin soplos.
+Auscultación pulmonar: murmullo vesicular conservado sin ruidos patológicos.
+Sin edema en MMII. 
+
+ECG: ritmo sinusal a X lpm. PR normal. QRS estrecho con eje a Xº. Sin alteraciones patológicas en la repolarización.
+
+Ecocardiograma transtorácico (2021):  VI de tamaño normal (DTDVI  56 mm)  contractilidad global y segmentaria normal.
+Hipertrofia concentrica  severa (Septo  17 mm, PPVI  15 mm) .
+FEVI por Teichholz  55   %, FEVI por Simpson  54  %
+Patrón diastólico de flujo transmitral: patron  pseudo normal E/A 1,2  E/em  13,2 
+VD  de t
+amaño normal (VDD basal  39 mm). Contractilidad normal: TAPSE23   mm. s ´VD  16,8 cm/s
+AI severamente dilatada ( 52 mm, area de 27   cm2, )  AD dilatada 
+Válvula aórtica trivalva, con  leve esclerosis, gradientes normales (grad max 14  mmHg)  No detecto regurgitación.
+Vá
+lvula mitral , con buena apertura, ligera  regurgitación central
+V álvula tricuspide con insuficiencia trivial, que permite estimar PAPS de  31 mmHg
+Vena cava inferior no dilatada,con colapso inspiratorio > 50%
+Ausencia de derrame pericárdico.
+AORTA:diámetros normales: senos de valsalva  39 mm, aorta tubular  38 mm,
+
+* 18/01/2023 11:51:41 - Medico: AGUSTÍN FERNÁNDEZ CISNAL - Cardiología general - 
+-------------------------------------------------------------------------
+18/1/2023
+
+FA. Xarelto 20 mg.
+HTA. Valsartan/Amlodipino/HTZ  320/10/25 mg. Carduran 8 mg cada 24 horas. 
+DM: Forxiga 10 mg. Efficib 100 mg. 
+
+Asintomático. 
+
+Tensión arterial 161/79 mmHg. Refiere AMPAs en torno 140 mmHg. 
+EF anodina. 
+
+Electrocardiograma: Ritmo sinusal a 60 lpm. PR largo (250 ms). Sin alteraciones. 
+
+Plan: 
+ - Solicito MAPA. 
+ - Control en 6 meses con analítica. 
+
+19/10/2022
+
+FA. Xarelto 20 mg. Emconcor 2.5 mg. 
+HTA. Valsartan/Amlodipino/HTZ  160/10/25 mg. Carduran 8 mg cada 24 horas. 
+DM: Forxiga 10 mg. Efficib 100 mg. 
+
+Asintomático. Solo toma el carduran por la noche. 
+
+Tensión arterial 160/86 mmHg. Refiere AMPAs en torno 150 mmHg. 
+EF anodina. 
+
+Electrocardiograma: Ritmo sinusal a 67 lpm. PR largo (240 ms). Sin alteraciones. 
+
+Plan: 
+- Aumento Dafiro a 320/10/25 mg. 
+- Control 3 meses con AMPAs. 
+
+13/12/2021
+
+Asintomático. 
+
+Tensión arterial 165/83 mmHg. Refiere AMPAs en torno a 140/150 mmHg. 
+EF anodina. 
+
+Electrocardiograma: Ritmo sinusal a 55 lpm. PR largo (280 ms). Sin alteraciones. 
+
+Plan: 
+ - Aumento Cardurana  8 mg cada 12 horas. 
+ - Control 6 meses. 
+
+17/11/2021
+
+Asintomático. No palptiaciones. 
+
+Tensión arterial 151/81 mmHg. Aporta AMPAs con mal control 150-160 mmHg. 
+EF normal. 
+
+Electrocardiograma: Ritmo sinusal a 58 lpm. PR largo (240 ms).QRS estrecho Sin alteraciones. 
+
+Plan: 
+ - Añado Carduran 8 mg cada 24 horas. 
+ - Control en un mes con AMPA. 
+
+13/10/2021
+
+Asintomático desde la cardioversión. 
+
+Tensión arterial 162/86 mmHg. AMPAs también elevadas. 
+
+Ef anodina. 
+
+Ecocardiograma: VI de tamaño normal (DTDVI  56 mm)  contractilidad global y segmentaria normal.
+Hipertrofia concentrica  severa (Septo  17 mm, PPVI  15 mm) .
+FEVI por Teichholz  55   %, FEVI por Simpson  54  %
+Patrón diastólico de flujo transmitral: patron  pseudo normal E/A 1,2  E/em  13,2 
+VD  de t
+amaño normal (VDD basal  39 mm). Contractilidad normal: TAPSE23   mm. s ´VD  16,8 cm/s
+AI severamente dilatada ( 52 mm, area de 27   cm2, )  AD dilatada 
+Válvula aórtica trivalva, con  leve esclerosis, gradientes normales (grad max 14  mmHg)  No detecto regurgitación.
+Vá
+lvula mitral , con buena apertura, ligera  regurgitación central
+V álvula tricuspide con insuficiencia trivial, que permite estimar PAPS de  31 mmHg
+Vena cava inferior no dilatada,con colapso inspiratorio > 50%
+Ausencia de derrame pericárdico.
+AORTA:diámetros normales: senos de valsalva  39 mm, aorta tubul
+ar  38 mm, 
+ 
+
+Plan: 
+ - Control un mes con AMPAs. 
+
+20/1/2021
+
+Asintomático. Refiere mejoría subjetiva. 
+
+Cardioversión efectiva: Previa sedación con diazepam y etomidato se administra un choque DC bifásico sincronizado de 200 J en posición AP modificada de palas, logranbdo la reversión a ritmo sinusal.
+El procedimiento se realiza sin complicaciones. 
+
+Juicio
+Fibrilación auricular persistente.
+Cardioversión eléctric
+a efectiva.
+
+Electrocardiograma: Ritmo sinusal a 62 lpm. PR largo (290 ms). Eje izquierdo. Escasa progresión de R en precordiales. 
+
+Plan: 
+ - Suspendo trangorex. 
+ - Mantengo Xarelto. 
+ - Control en 2 meses con ecocardiograma y Holter. 
+
+16/12/2020
+
+Electrocardiograma: Fibrilación auricular con respuesta ventricular a 49 lpm. 
+
+Plan. 
+ - Solicito Cardioversión eléctrica. 
+
+
+4/11/2020
+
+No se realizó CVE por no haber tomado anticoagulación por problemas burocráticos. 
+
+Tensión arterial 166/84 mmHg. 
+EF anodina. 
+
+Electrocardiograma: Fibrilación auricualr con respuesta ventricualr a 55 lpm.Sin cambios. 
+
+Plan: 
+ - Inicio de nuevo Xarelto 20 mg y trangorex. 
+ - Cita en un mes. Si está en FA y tomando anticoagulación solicitar de nuevo CVE.  
+
+7/10/2020
+
+Asintomático. 
+
+Ecocardiograma: Aurícula izquierda severamente dilatada. Función biventricular conservada. Ausencia de valvulopatías. Hipertrofia ventricfula izuqierda severa (Septo 17 mm, pared posterior 14 mm). 
+
+Analítica: NT proBNP 322. Colesterol total 187 mg7DL. LDL 105 mg/dL. HbA1c 9.4%. CA125 20. 
+
+Electrocardiograma: Fibrilación auricular con respuesta ventricular a 60 lpm. 
+
+Plan: 
+ - Solicito cardioversión eléctrica. 
+ - Inicio Amiodarona 200 mg 1 comprimido cada 24 horas. 
+ - Derivo a Endocrinología. 
+ - Control tras CVE.
+
+* 18/01/2023 11:47:53 - Medico: AGUSTÍN FERNÁNDEZ CISNAL - Cardiología general - 
+-------------------------------------------------------------------------
+18/1/2023
+
+FA. Xarelto 20 mg.
+HTA. Valsartan/Amlodipino/HTZ  320/10/25 mg. Carduran 8 mg cada 24 horas. 
+DM: Forxiga 10 mg. Efficib 100 mg. 
+
+Asintomático. 
+
+Tensión arterial 161/79 mmHg. Refiere AMPAs en torno 140 mmHg. 
+EF anodina. 
+
+Electrocardiograma: Ritmo sinusal a 60 lpm. PR largo (250 ms). Sin alteraciones. 
+
+Plan: 
+ - Solicito MAPA. 
+ - Control en 6 meses con analítica. 
+
+19/10/2022
+
+FA. Xarelto 20 mg. Emconcor 2.5 mg. 
+HTA. Valsartan/Amlodipino/HTZ  160/10/25 mg. Carduran 8 mg cada 24 horas. 
+DM: Forxiga 10 mg. Efficib 100 mg. 
+
+Asintomático. Solo toma el carduran por la noche. 
+
+Tensión arterial 160/86 mmHg. Refiere AMPAs en torno 150 mmHg. 
+EF anodina. 
+
+Electrocardiograma: Ritmo sinusal a 67 lpm. PR largo (240 ms). Sin alteraciones. 
+
+Plan: 
+- Aumento Dafiro a 320/10/25 mg. 
+- Control 3 meses con AMPAs. 
+
+13/12/2021
+
+Asintomático. 
+
+Tensión arterial 165/83 mmHg. Refiere AMPAs en torno a 140/150 mmHg. 
+EF anodina. 
+
+Electrocardiograma: Ritmo sinusal a 55 lpm. PR largo (280 ms). Sin alteraciones. 
+
+Plan: 
+ - Aumento Cardurana  8 mg cada 12 horas. 
+ - Control 6 meses. 
+
+17/11/2021
+
+Asintomático. No palptiaciones. 
+
+Tensión arterial 151/81 mmHg. Aporta AMPAs con mal control 150-160 mmHg. 
+EF normal. 
+
+Electrocardiograma: Ritmo sinusal a 58 lpm. PR largo (240 ms).QRS estrecho Sin alteraciones. 
+
+Plan: 
+ - Añado Carduran 8 mg cada 24 horas. 
+ - Control en un mes con AMPA. 
+
+13/10/2021
+
+Asintomático desde la cardioversión. 
+
+Tensión arterial 162/86 mmHg. AMPAs también elevadas. 
+
+Ef anodina. 
+
+Ecocardiograma: VI de tamaño normal (DTDVI  56 mm)  contractilidad global y segmentaria normal.
+Hipertrofia concentrica  severa (Septo  17 mm, PPVI  15 mm) .
+FEVI por Teichholz  55   %, FEVI por Simpson  54  %
+Patrón diastólico de flujo transmitral: patron  pseudo normal E/A 1,2  E/em  13,2 
+VD  de t
+amaño normal (VDD basal  39 mm). Contractilidad normal: TAPSE23   mm. s ´VD  16,8 cm/s
+AI severamente dilatada ( 52 mm, area de 27   cm2, )  AD dilatada 
+Válvula aórtica trivalva, con  leve esclerosis, gradientes normales (grad max 14  mmHg)  No detecto regurgitación.
+Vá
+lvula mitral , con buena apertura, ligera  regurgitación central
+V álvula tricuspide con insuficiencia trivial, que permite estimar PAPS de  31 mmHg
+Vena cava inferior no dilatada,con colapso inspiratorio > 50%
+Ausencia de derrame pericárdico.
+AORTA:diámetros normales: senos de valsalva  39 mm, aorta tubul
+ar  38 mm, 
+ 
+
+Plan: 
+ - Control un mes con AMPAs. 
+
+20/1/2021
+
+Asintomático. Refiere mejoría subjetiva. 
+
+Cardioversión efectiva: Previa sedación con diazepam y etomidato se administra un choque DC bifásico sincronizado de 200 J en posición AP modificada de palas, logranbdo la reversión a ritmo sinusal.
+El procedimiento se realiza sin complicaciones. 
+
+Juicio
+Fibrilación auricular persistente.
+Cardioversión eléctric
+a efectiva.
+
+Electrocardiograma: Ritmo sinusal a 62 lpm. PR largo (290 ms). Eje izquierdo. Escasa progresión de R en precordiales. 
+
+Plan: 
+ - Suspendo trangorex. 
+ - Mantengo Xarelto. 
+ - Control en 2 meses con ecocardiograma y Holter. 
+
+16/12/2020
+
+Electrocardiograma: Fibrilación auricular con respuesta ventricular a 49 lpm. 
+
+Plan. 
+ - Solicito Cardioversión eléctrica. 
+
+
+4/11/2020
+
+No se realizó CVE por no haber tomado anticoagulación por problemas burocráticos. 
+
+Tensión arterial 166/84 mmHg. 
+EF anodina. 
+
+Electrocardiograma: Fibrilación auricualr con respuesta ventricualr a 55 lpm.Sin cambios. 
+
+Plan: 
+ - Inicio de nuevo Xarelto 20 mg y trangorex. 
+ - Cita en un mes. Si está en FA y tomando anticoagulación solicitar de nuevo CVE.  
+
+7/10/2020
+
+Asintomático. 
+
+Ecocardiograma: Aurícula izquierda severamente dilatada. Función biventricular conservada. Ausencia de valvulopatías. Hipertrofia ventricfula izuqierda severa (Septo 17 mm, pared posterior 14 mm). 
+
+Analítica: NT proBNP 322. Colesterol total 187 mg7DL. LDL 105 mg/dL. HbA1c 9.4%. CA125 20. 
+
+Electrocardiograma: Fibrilación auricular con respuesta ventricular a 60 lpm. 
+
+Plan: 
+ - Solicito cardioversión eléctrica. 
+ - Inicio Amiodarona 200 mg 1 comprimido cada 24 horas. 
+ - Derivo a Endocrinología. 
+ - Control tras CVE.
+
+* 18/01/2023 11:34:55 - Medico: AGUSTÍN FERNÁNDEZ CISNAL - Cardiología general - 
+-------------------------------------------------------------------------
+19/10/2022
+
+FA. Xarelto 20 mg. Emconcor 2.5 mg. 
+HTA. Valsartan/Amlodipino/HTZ  160/10/25 mg. Carduran 8 mg cada 24 horas. 
+DM: Forxiga 10 mg. Efficib 100 mg. 
+
+Asintomático. Solo toma el carduran por la noche. 
+
+Tensión arterial 160/86 mmHg. Refiere AMPAs en torno 150 mmHg. 
+EF anodina. 
+
+Electrocardiograma: Ritmo sinusal a 67 lpm. PR largo (240 ms). Sin alteraciones. 
+
+Plan: 
+- Aumento Dafiro a 320/10/25 mg. 
+- Control 3 meses con AMPAs. 
+
+13/12/2021
+
+Asintomático. 
+
+Tensión arterial 165/83 mmHg. Refiere AMPAs en torno a 140/150 mmHg. 
+EF anodina. 
+
+Electrocardiograma: Ritmo sinusal a 55 lpm. PR largo (280 ms). Sin alteraciones. 
+
+Plan: 
+ - Aumento Cardurana  8 mg cada 12 horas. 
+ - Control 6 meses. 
+
+17/11/2021
+
+Asintomático. No palptiaciones. 
+
+Tensión arterial 151/81 mmHg. Aporta AMPAs con mal control 150-160 mmHg. 
+EF normal. 
+
+Electrocardiograma: Ritmo sinusal a 58 lpm. PR largo (240 ms).QRS estrecho Sin alteraciones. 
+
+Plan: 
+ - Añado Carduran 8 mg cada 24 horas. 
+ - Control en un mes con AMPA. 
+
+13/10/2021
+
+Asintomático desde la cardioversión. 
+
+Tensión arterial 162/86 mmHg. AMPAs también elevadas. 
+
+Ef anodina. 
+
+Ecocardiograma: VI de tamaño normal (DTDVI  56 mm)  contractilidad global y segmentaria normal.
+Hipertrofia concentrica  severa (Septo  17 mm, PPVI  15 mm) .
+FEVI por Teichholz  55   %, FEVI por Simpson  54  %
+Patrón diastólico de flujo transmitral: patron  pseudo normal E/A 1,2  E/em  13,2 
+VD  de t
+amaño normal (VDD basal  39 mm). Contractilidad normal: TAPSE23   mm. s ´VD  16,8 cm/s
+AI severamente dilatada ( 52 mm, area de 27   cm2, )  AD dilatada 
+Válvula aórtica trivalva, con  leve esclerosis, gradientes normales (grad max 14  mmHg)  No detecto regurgitación.
+Vá
+lvula mitral , con buena apertura, ligera  regurgitación central
+V álvula tricuspide con insuficiencia trivial, que permite estimar PAPS de  31 mmHg
+Vena cava inferior no dilatada,con colapso inspiratorio > 50%
+Ausencia de derrame pericárdico.
+AORTA:diámetros normales: senos de valsalva  39 mm, aorta tubul
+ar  38 mm, 
+ 
+
+Plan: 
+ - Control un mes con AMPAs. 
+
+20/1/2021
+
+Asintomático. Refiere mejoría subjetiva. 
+
+Cardioversión efectiva: Previa sedación con diazepam y etomidato se administra un choque DC bifásico sincronizado de 200 J en posición AP modificada de palas, logranbdo la reversión a ritmo sinusal.
+El procedimiento se realiza sin complicaciones. 
+
+Juicio
+Fibrilación auricular persistente.
+Cardioversión eléctric
+a efectiva.
+
+Electrocardiograma: Ritmo sinusal a 62 lpm. PR largo (290 ms). Eje izquierdo. Escasa progresión de R en precordiales. 
+
+Plan: 
+ - Suspendo trangorex. 
+ - Mantengo Xarelto. 
+ - Control en 2 meses con ecocardiograma y Holter. 
+
+16/12/2020
+
+Electrocardiograma: Fibrilación auricular con respuesta ventricular a 49 lpm. 
+
+Plan. 
+ - Solicito Cardioversión eléctrica. 
+
+
+4/11/2020
+
+No se realizó CVE por no haber tomado anticoagulación por problemas burocráticos. 
+
+Tensión arterial 166/84 mmHg. 
+EF anodina. 
+
+Electrocardiograma: Fibrilación auricualr con respuesta ventricualr a 55 lpm.Sin cambios. 
+
+Plan: 
+ - Inicio de nue
+vo Xarelto 20 mg y trangorex. 
+ - Cita en un mes. Si está en FA y tomando anticoagulación solicitar de nuevo CVE.  
+
+7/10/2020
+
+Asintomático. 
+
+Ecocardiograma: Aurícula izquierda severamente dilatada. Función biventricular conservada. Ausencia de valvulopatías. Hipertrofia ventricfula izuqierda severa (Septo 17 mm, pared posterior 14 mm). 
+
+Analítica: NT proBNP 32
+2. Colesterol total 187 mg7DL. LDL 105 mg/dL. HbA1c 9.4%. CA125 20. 
+
+Electrocardiograma: Fibrilación auricular con respuesta ventricular a 60 lpm. 
+
+Plan: 
+ - Solicito cardioversión eléctrica. 
+ - Inicio Amiodarona 200 mg 1 comprimido cada
+24 horas. 
+ - Derivo a Endocri
+nología. 
+ - Control tras CVE.

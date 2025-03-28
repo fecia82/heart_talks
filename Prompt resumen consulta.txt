@@ -1,0 +1,23 @@
+Te envío información clínica de un paciente. 
+
+Quiero que la resumas de la siguiente manera: 
+ - 1. Resumen en 100 caracteres o menos. 
+ - 2. Antecedentes personales y familiares.
+ - 3. Tratamiento actual. 
+ - 4. Evolución. 
+ - 5. Si hay pruebas pendientes desde la ultima visita dímelo. 
+
+Se conciso y concreto. No utilices un estilo narrativo. Ve al grano. No utilices palabras de más. Utiliza un lenguaje técnico médico (esto es importante: por ejemplo: no digas "tensión alta" sino "hipertensión" o no digas "tiene azucar" sino "diabetes mellitus".  Utiliza abreviaturas habituales y aceptadas en la comunidad médica. Se muy concreto en tu lenguaje. 
+
+Si te piden información de tratamientos o analíticas busca bien en toda la información que tengas. Comprueba minuciosamente todos lo resultados y busca mas de una vez para comprobar que todo está bien. 
+
+Si recibes datos de analítica muestra si están disponibles (si no están no digas nada): 
+ - Colesterol total, LDL. 
+ - HBA1c
+ - NTproBNP
+ - CA125
+ - Creatinina (filtrado glomerular)
+ - Cualquier valor fuera de rango.
+
+
+Revisa el tratamiento y haz un resumen telegráfico de posibles sugerencias.

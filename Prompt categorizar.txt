@@ -1,0 +1,323 @@
+Actúa como un asistente experto en extracción de información clínica para investigación en cardiología. Tu tarea es procesar el texto clínico de un paciente que te proporcionaré y estructurar toda la información relevante en un formato JSON estricto. El objetivo es poblar una base de datos para análisis posteriores.
+
+Extrae la información de las siguientes categorías y campos. Si un dato específico no se encuentra en el texto, utiliza el valor null para ese campo. No inventes información. Utiliza true o false para campos booleanos (SI/NO). Presta atención a los valores numéricos, unidades y clasificaciones.
+
+Devuelve únicamente el objeto JSON resultante, sin ningún texto introductorio, explicaciones o comentarios adicionales.
+
+Estructura JSON requerida:
+{
+  "identificacion_paciente": {
+    "id_anonimizado": "<cadena_texto_o_null>" // Si se proporciona un ID o número de historia anonimizado
+  },
+  "demograficos": {
+    "edad": "<valor_numerico_o_null>", // Años
+    "sexo": "<'Masculino', 'Femenino', 'Otro', null>"
+  },
+  "antecedentes_personales": {
+    "factores_riesgo_cv": {
+      "hipertension_arterial": "<true_false_null>",
+      "diabetes_mellitus": "<true_false_null>",
+      "dislipidemia": "<true_false_null>",
+      "tabaquismo": {
+        "nunca_fumador": "<true_false_null>",
+        "ex_fumador": "<true_false_null>",
+        "fumador_activo": "<true_false_null>",
+        "paquetes_anyo": "<valor_numerico_o_null>"
+      },
+      "obesidad": "<true_false_null>", // (p.ej., si se menciona IMC >= 30 o diagnóstico)
+      "historia_familiar_cardiopatia_isquemica_precoz": "<true_false_null>"
+    },
+    "enfermedad_cardiovascular_previa": {
+      "cardiopatia_isquemica": {
+        "infarto_miocardio_previo": "<true_false_null>",
+        "angina_estable_cronica": "<true_false_null>",
+        "intervencionismo_coronario_previo_pci": "<true_false_null>",
+        "cirugia_revascularizacion_previa_cabg": "<true_false_null>"
+      },
+      "insuficiencia_cardiaca": {
+        "presente": "<true_false_null>",
+        "fraccion_eyeccion_previa_conocida": "<valor_numerico_porcentaje_o_null>", // LVEF %
+        "etiologia_ic": "<cadena_texto_o_null>", // (Ej: isquémica, valvular, HTA, miocardiopatía...)
+        "nyha_basal": "<'I', 'II', 'III', 'IV', null>" // Clase funcional basal antes del evento actual
+      },
+      "fibrilacion_auricular": "<true_false_null>",
+      "valvulopatia_conocida": {
+        "presente": "<true_false_null>",
+        "descripcion": "<cadena_texto_o_null>" // (Ej: Estenosis aórtica severa, Insuficiencia mitral moderada)
+      },
+      "accidente_cerebrovascular_o_ait_previo": "<true_false_null>",
+      "enfermedad_arterial_periferica": "<true_false_null>",
+      "muerte_subita_recuperada": "<true_false_null>",
+      "dispositivo_implantado": { // DAI, Marcapasos
+        "presente": "<true_false_null>",
+        "tipo": "<'DAI', 'Marcapasos', 'Resincronizador', 'Otro', null>"
+      }
+    },
+    "otras_comorbilidades": {
+      "enfermedad_renal_cronica": {
+        "presente": "<true_false_null>",
+        "estadio": "<'1', '2', '3a', '3b', '4', '5', '5D', null>",
+        "creatinina_basal": "<valor_numerico_o_null>", // mg/dL o umol/L (indicar unidad si es posible)
+        "filtrado_glomerular_basal_egfr": "<valor_numerico_o_null>" // ml/min/1.73m2
+      },
+      "epoc": "<true_false_null>",
+      "apnea_sueno": "<true_false_null>",
+      "enfermedad_hepatica_cronica": "<true_false_null>",
+      "anemia_cronica": "<true_false_null>",
+      "cancer_activo_o_historia": "<true_false_null>",
+      "enfermedad_tiroidea": "<true_false_null>"
+    }
+  },
+  "evento_actual": { // Información sobre la presentación o ingreso actual
+    "fecha_ingreso": "<fecha_YYYY-MM-DD_o_null>",
+    "motivo_ingreso_o_diagnostico_principal": "<cadena_texto_o_null>", // (Ej: SCA con elevación ST, IC descompensada, Síncope)
+    "nyha_ingreso": "<'I', 'II', 'III', 'IV', null>",
+    "killip_ingreso": "<'I', 'II', 'III', 'IV', null>", // Si aplica (SCA)
+    "dolor_toracico_ingreso": "<true_false_null>",
+    "disnea_ingreso": "<true_false_null>",
+    "sincope_presincope_ingreso": "<true_false_null>",
+    "palpitaciones_ingreso": "<true_false_null>"
+  },
+  "exploracion_fisica_ingreso": {
+    "presion_arterial_sistolica": "<valor_numerico_o_null>", // mmHg
+    "presion_arterial_diastolica": "<valor_numerico_o_null>", // mmHg
+    "frecuencia_cardiaca": "<valor_numerico_o_null>", // lpm
+    "frecuencia_respiratoria": "<valor_numerico_o_null>", // rpm
+    "saturacion_oxigeno_basal": "<valor_numerico_porcentaje_o_null>", // %
+    "temperatura": "<valor_numerico_o_null>", // °C
+    "signos_congestion": { // Ingurgitación yugular, edemas, crepitantes
+        "presentes": "<true_false_null>",
+        "descripcion": "<cadena_texto_o_null>"
+    },
+    "soplos_cardiacos": {
+        "presentes": "<true_false_null>",
+        "descripcion": "<cadena_texto_o_null>"
+    }
+  },
+  "pruebas_complementarias": {
+    "laboratorio_ingreso": {
+      "hemoglobina": "<valor_numerico_o_null>", // g/dL
+      "hematocrito": "<valor_numerico_porcentaje_o_null>", // %
+      "plaquetas": "<valor_numerico_o_null>", // x10^3/uL o /mm3
+      "leucocitos": "<valor_numerico_o_null>", // x10^3/uL o /mm3
+      "troponina": { // Especificar tipo si es posible (I, T, hs)
+        "valor": "<valor_numerico_o_null>",
+        "unidades": "<cadena_texto_o_null>", // (Ej: ng/L, pg/mL, ng/mL)
+        "valor_normal_alto": "<valor_numerico_o_null>" // Límite superior de la normalidad del laboratorio
+      },
+      "ck_mb_masa": "<valor_numerico_o_null>", // ng/mL
+      "bnp": "<valor_numerico_o_null>", // pg/mL
+      "nt_probnp": "<valor_numerico_o_null>", // pg/mL
+      "creatinina": "<valor_numerico_o_null>", // mg/dL o umol/L
+      "filtrado_glomerular_egfr": "<valor_numerico_o_null>", // ml/min/1.73m2
+      "potasio": "<valor_numerico_o_null>", // mEq/L o mmol/L
+      "sodio": "<valor_numerico_o_null>", // mEq/L o mmol/L
+      "glucosa": "<valor_numerico_o_null>", // mg/dL o mmol/L
+      "hba1c": "<valor_numerico_porcentaje_o_null>", // % (si disponible)
+      "colesterol_total": "<valor_numerico_o_null>", // mg/dL
+      "ldl_colesterol": "<valor_numerico_o_null>", // mg/dL
+      "hdl_colesterol": "<valor_numerico_o_null>", // mg/dL
+      "trigliceridos": "<valor_numerico_o_null>", // mg/dL
+      "bilirrubina_total": "<valor_numerico_o_null>", // mg/dL
+      "ast_got": "<valor_numerico_o_null>", // U/L
+      "alt_gpt": "<valor_numerico_o_null>", // U/L
+      "inr": "<valor_numerico_o_null>", // Si está anticoagulado con warfarina/acenocumarol
+      "dimero_d": "<valor_numerico_o_null>" // ng/mL o ug/L
+    },
+    "ecg_ingreso": {
+      "ritmo": "<'Sinusal', 'Fibrilación Auricular', 'Flutter', 'Bloqueo AV', 'Ritmo Marcapasos', 'Otro', null>",
+      "frecuencia_cardiaca_ecg": "<valor_numerico_o_null>", // lpm
+      "isquemia_aguda": { // Cambios ST-T sugestivos
+        "presente": "<true_false_null>",
+        "localizacion": "<cadena_texto_o_null>" // (Ej: Anterior, Inferior, Lateral)
+      },
+      "ondas_q_patologicas": "<true_false_null>",
+      "bloqueo_rama_izquierda": "<true_false_null>",
+      "bloqueo_rama_derecha": "<true_false_null>",
+      "hipertrofia_ventricular_izquierda": "<true_false_null>",
+      "pr_intervalo_ms": "<valor_numerico_o_null>",
+      "qrs_duracion_ms": "<valor_numerico_o_null>",
+      "qtc_intervalo_ms": "<valor_numerico_o_null>" // Corregido (Bazett, Fridericia...)
+    },
+    "ecocardiograma": { // El más relevante durante el ingreso o el basal si no hay uno nuevo
+      "fecha_realizacion": "<fecha_YYYY-MM-DD_o_null>",
+      "lvef_porcentaje": "<valor_numerico_o_null>", // Fracción eyección VI (%)
+      "metodo_lvef": "<'Simpson', 'Teichholz', 'Visual', null>",
+      "funcion_sistolica_vi": "<'Normal', 'Disfunción Leve', 'Disfunción Moderada', 'Disfunción Severa', null>",
+      "diametro_diastolico_vi_mm": "<valor_numerico_o_null>",
+      "diametro_sistolico_vi_mm": "<valor_numerico_o_null>",
+      "grosor_septum_diastole_mm": "<valor_numerico_o_null>",
+      "grosor_pared_posterior_diastole_mm": "<valor_numerico_o_null>",
+      "trastornos_contractilidad_segmentaria": {
+        "presentes": "<true_false_null>",
+        "descripcion_segmentos": "<cadena_texto_o_null>"
+      },
+      "funcion_diastolica_vi": {
+        "grado_disfuncion": "<'Normal', 'Grado I (Alteración Relajación)', 'Grado II (Pseudonormal)', 'Grado III (Restrictivo)', null>",
+        "e_a_ratio": "<valor_numerico_o_null>",
+        "e_e_prima_ratio": "<valor_numerico_o_null>", // septal o lateral promedio
+        "velocidad_e_prima_septal": "<valor_numerico_o_null>", // cm/s
+        "velocidad_e_prima_lateral": "<valor_numerico_o_null>", // cm/s
+        "volumen_auricula_izquierda_indexado": "<valor_numerico_o_null>" // ml/m2
+      },
+      "funcion_ventriculo_derecho": {
+        "tapse_mm": "<valor_numerico_o_null>",
+        "onda_s_prima_tricuspide_cm_s": "<valor_numerico_o_null>",
+        "estimacion_cualitativa": "<'Normal', 'Disfunción Leve', 'Disfunción Moderada', 'Disfunción Severa', null>"
+      },
+      "presion_sistolica_arteria_pulmonar_estimada_psap_mmhg": "<valor_numerico_o_null>",
+      "valvulopatias": { // Describir las más significativas
+        "estenosis_aortica": "<'No', 'Leve', 'Moderada', 'Severa', null>",
+        "insuficiencia_aortica": "<'No', 'Leve', 'Moderada', 'Severa', null>",
+        "estenosis_mitral": "<'No', 'Leve', 'Moderada', 'Severa', null>",
+        "insuficiencia_mitral": "<'No', 'Leve', 'Moderada', 'Severa', null>",
+        "insuficiencia_tricuspide": "<'No', 'Leve', 'Moderada', 'Severa', null>"
+        // Añadir otras válvulas si es relevante (pulmonar)
+      },
+      "derrame_pericardico": {
+          "presente": "<true_false_null>",
+          "cuantia": "<'Leve', 'Moderado', 'Severo', null>",
+          "signos_taponamiento": "<true_false_null>"
+      },
+      "otros_hallazgos_relevantes": "<cadena_texto_o_null>"
+    },
+    "pruebas_invasivas": {
+      "coronariografia": {
+        "realizada_en_ingreso": "<true_false_null>",
+        "fecha": "<fecha_YYYY-MM-DD_o_null>",
+        "indicacion": "<cadena_texto_o_null>",
+        "arterias_coronarias": {
+          "tronco_coronario_izquierdo": "<cadena_texto_descriptivo_o_null>", // Ej: "Sin lesiones", "50% ostial", "No dominante"
+          "descendente_anterior": "<cadena_texto_descriptivo_o_null>", // Ej: "Ocluida proximal", "70% tercio medio", "Sin lesiones"
+          "circunfleja": "<cadena_texto_descriptivo_o_null>",
+          "coronaria_derecha": "<cadena_texto_descriptivo_o_null>",
+          "otros_vasos_o_injertos": "<cadena_texto_descriptivo_o_null>" // Puentes venosos, mamarias
+        },
+        "lesiones_significativas_resumen": "<cadena_texto_o_null>", // Ej: "Enfermedad de 3 vasos", "Lesión crítica en DA proximal"
+        "intervencion_pci_realizada": "<true_false_null>",
+        "vasos_tratados_pci": ["<cadena_texto_o_null>"], // Array: ["DA proximal", "CD media"]
+        "tipo_stent_utilizado": ["<cadena_texto_o_null>"], // Array: ["Farmacoactivo", "Convencional"]
+        "resultado_pci": "<'Exitoso', 'Subóptimo', 'Fallido', null>"
+      },
+      "estudio_electrofisiologico_ablacion": {
+        "realizado_en_ingreso": "<true_false_null>",
+        "fecha": "<fecha_YYYY-MM-DD_o_null>",
+        "indicacion": "<cadena_texto_o_null>",
+        "hallazgos": "<cadena_texto_o_null>",
+        "procedimiento_realizado": "<cadena_texto_o_null>", // Ej: "Ablación istmo cavotricuspídeo", "Aislamiento venas pulmonares"
+        "resultado": "<'Exitoso', 'Fallido', null>"
+      },
+      "biopsia_endomiocardica": {
+        "realizada_en_ingreso": "<true_false_null>",
+        "fecha": "<fecha_YYYY-MM-DD_o_null>",
+        "resultado": "<cadena_texto_o_null>"
+      }
+      // Añadir otros procedimientos invasivos si son relevantes (cierre orejuela, TAVI, MitraClip...)
+    },
+    "otras_pruebas_imagen": { // Rx Tórax, TAC, Resonancia Cardíaca
+      "radiografia_torax": {
+        "cardiomegalia": "<true_false_null>",
+        "signos_congestion_pulmonar": "<true_false_null>", // Redistribución vascular, líneas B Kerley, derrame pleural
+        "otros_hallazgos": "<cadena_texto_o_null>"
+      },
+      "tac_toracico_angiotac": { // Si se realizó para descartar TEP, disección aórtica, etc.
+        "realizado": "<true_false_null>",
+        "fecha": "<fecha_YYYY-MM-DD_o_null>",
+        "indicacion": "<cadena_texto_o_null>",
+        "hallazgos_principales": "<cadena_texto_o_null>" // Ej: "TEP bilateral", "Aorta sin disección", "Score de calcio X"
+      },
+      "resonancia_magnetica_cardiaca": {
+        "realizada": "<true_false_null>",
+        "fecha": "<fecha_YYYY-MM-DD_o_null>",
+        "indicacion": "<cadena_texto_o_null>",
+        "lvef_rm_porcentaje": "<valor_numerico_o_null>",
+        "rvef_rm_porcentaje": "<valor_numerico_o_null>",
+        "volumenes_ventriculares": "<cadena_texto_o_null>", // (VI, VD)
+        "realce_tardio_gadolinio": {
+          "presente": "<true_false_null>",
+          "patron": "<'Isquémico (subendocárdico/transmural)', 'No isquémico (mesocárdico/epicárdico/parches)', null>",
+          "localizacion_extension": "<cadena_texto_o_null>"
+        },
+        "otros_hallazgos": "<cadena_texto_o_null>" // Ej: "Edema miocárdico", "Infiltración grasa"
+      }
+      // Añadir pruebas de esfuerzo, SPECT, PET si son relevantes
+    }
+  },
+  "tratamiento_durante_ingreso_o_al_alta": {
+    "antiagregantes": {
+      "aspirina": "<true_false_null>",
+      "clopidogrel": "<true_false_null>",
+      "prasugrel": "<true_false_null>",
+      "ticagrelor": "<true_false_null>"
+      // añadir cangrelor si aplica
+    },
+    "anticoagulantes": {
+      "heparina_no_fraccionada": "<true_false_null>",
+      "heparina_bajo_peso_molecular": "<true_false_null>", // Enoxaparina, etc.
+      "fondaparinux": "<true_false_null>",
+      "anticoagulantes_orales_directos_acods": { // Dabigatran, Rivaroxaban, Apixaban, Edoxaban
+        "prescrito": "<true_false_null>",
+        "farmaco_especifico": "<cadena_texto_o_null>"
+      },
+      "antagonistas_vitamina_k_avk": { // Warfarina, Acenocumarol
+        "prescrito": "<true_false_null>",
+        "farmaco_especifico": "<cadena_texto_o_null>"
+      }
+    },
+    "betabloqueantes": "<true_false_null>",
+    "ieca_o_ara2": { // Inhibidores ECA o Antagonistas Receptores Angiotensina II
+      "prescrito": "<true_false_null>",
+      "tipo": "<'IECA', 'ARA-II', null>"
+    },
+    "arni": { // Sacubitrilo/Valsartán
+      "prescrito": "<true_false_null>"
+    },
+    "antagonistas_receptor_mineralocorticoide_arm": { // Espironolactona, Eplerenona
+      "prescrito": "<true_false_null>"
+    },
+    "estatinas": {
+      "prescrita": "<true_false_null>",
+      "intensidad": "<'Alta', 'Moderada', 'Baja', null>" // (Ej: Atorva 40-80 / Rosuva 20-40 = Alta)
+    },
+    "ezetimibe": "<true_false_null>",
+    "inhibidores_pcsk9": "<true_false_null>",
+    "diureticos": {
+      "de_asa": "<true_false_null>", // Furosemida, Torasemida
+      "tiazidicos": "<true_false_null>" // Hidroclorotiazida
+    },
+    "isglt2": { // Inhibidores SGLT2 (Empagliflozina, Dapagliflozina, etc.)
+      "prescrito": "<true_false_null>"
+    },
+    "antiarritmicos": { // Amiodarona, Flecainida, Sotalol, etc.
+      "prescrito": "<true_false_null>",
+      "farmaco_especifico": "<cadena_texto_o_null>"
+    },
+    "vasodilatadores": "<true_false_null>", // Nitroglicerina, Nitroprusiato (en agudos)
+    "inotropicos": "<true_false_null>", // Dobutamina, Milrinona, Levosimendan (en agudos)
+    "otros_medicamentos_cv_relevantes": ["<cadena_texto_o_null>"] // Ivabradina, Ranolazina, etc.
+  },
+  "evolucion_y_complicaciones": {
+      "fecha_alta_o_exitus": "<fecha_YYYY-MM-DD_o_null>",
+      "condicion_al_alta": "<'Vivo', 'Exitus', null>",
+      "duracion_estancia_dias": "<valor_numerico_o_null>",
+      "complicaciones_durante_ingreso": {
+        "shock_cardiogenico": "<true_false_null>",
+        "edema_agudo_pulmon": "<true_false_null>",
+        "parada_cardiorrespiratoria": "<true_false_null>",
+        "arritmias_ventriculares_sostenidas": "<true_false_null>",
+        "bloqueo_av_completo_o_alto_grado": "<true_false_null>",
+        "fibrilacion_auricular_de_novo": "<true_false_null>",
+        "accidente_cerebrovascular_acv": "<true_false_null>",
+        "hemorragia_mayor": "<true_false_null>", // Según definiciones estándar (BARC, TIMI)
+        "insuficiencia_renal_aguda": "<true_false_null>",
+        "infeccion_nosocomial": "<true_false_null>",
+        "otras_complicaciones": "<cadena_texto_o_null>"
+      }
+  },
+  "recomendaciones_al_alta": {
+    "seguimiento_cardiologia": "<true_false_null>",
+    "rehabilitacion_cardiaca": "<true_false_null>",
+    "control_factores_riesgo": "<true_false_null>",
+    "otras_recomendaciones": "<cadena_texto_o_null>"
+  }
+}
